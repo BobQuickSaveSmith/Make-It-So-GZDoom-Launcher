@@ -40,15 +40,10 @@
 
 ---
 
-### 🖼 Screenshots
+### 🖼 Screenshot
 
 <p align="center">
-  <!-- App UI: larger -->
   <img src="assets/screenshot_1.png" width="900" alt="App UI">
-</p>
-
-<p align="center">
-  <img src="assets/screenshot_2@2x.png" width="320" alt="Dock menu in macOS Dock">
 </p>
 
 > 📸 More images may appear in Releases or the Wiki
@@ -65,5 +60,3 @@ GZDoom and all mods referenced remain the property of their respective creators.
 ### 💬 Support & Feedback
 
 If you spot a bug or want to request a feature, feel free to [open an issue](https://github.com/BobQuickSaveSmith/Make-It-So-GZDoom-Launcher/issues).
-
----
