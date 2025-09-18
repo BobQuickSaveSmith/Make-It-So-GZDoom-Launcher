@@ -10,8 +10,6 @@
 ### 📦 Download
 
 - **Latest release**: [GitHub Releases](https://github.com/BobQuickSaveSmith/Make-It-So-GZDoom-Launcher/releases/latest)
-- **Direct DMG**: [MakeItSo.dmg](https://github.com/BobQuickSaveSmith/Make-It-So-GZDoom-Launcher/releases/download/v1.0.0/MakeItSo.dmg)
-- **Direct ZIP**: [MakeItSo.zip](https://github.com/BobQuickSaveSmith/Make-It-So-GZDoom-Launcher/releases/download/v1.0.0/MakeItSo.zip)
 
 > 💡 _macOS Gatekeeper may block the app on first launch.  
 > See [How to Open if Blocked](docs/MakeItSo_How_To_Open_App_If_Blocked.md) for help._
