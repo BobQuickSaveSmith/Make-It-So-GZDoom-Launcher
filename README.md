@@ -10,8 +10,8 @@
 ### 📦 Download
 
 - **Latest release**: [GitHub Releases](https://github.com/BobQuickSaveSmith/Make-It-So-GZDoom-Launcher/releases/latest)
-- **Direct DMG**: [MakeItSo_macOS.dmg](https://github.com/BobQuickSaveSmith/Make-It-So-GZDoom-Launcher/releases/latest/download/MakeItSo_macOS_2025-09-18_120706.dmg)
-- **Direct ZIP**: [MakeItSo_macOS.zip](https://github.com/BobQuickSaveSmith/Make-It-So-GZDoom-Launcher/releases/latest/download/MakeItSo_macOS_2025-09-18_120706.zip)
+- **Direct DMG**: [MakeItSo_macOS.dmg](https://github.com/BobQuickSaveSmith/Make-It-So-GZDoom-Launcher/releases/latest/download/MakeItSo_macOS.dmg)
+- **Direct ZIP**: [MakeItSo_macOS.zip](https://github.com/BobQuickSaveSmith/Make-It-So-GZDoom-Launcher/releases/latest/download/MakeItSo_macOS.zip)
 
 > 💡 _macOS Gatekeeper may block the app on first launch.  
 > See [How to Open if Blocked](docs/MakeItSo_How_To_Open_App_If_Blocked.md) for help._
@@ -60,3 +60,4 @@ GZDoom and all mods referenced remain the property of their respective creators.
 ### 💬 Support & Feedback
 
 If you spot a bug or want to request a feature, feel free to [open an issue](https://github.com/BobQuickSaveSmith/Make-It-So-GZDoom-Launcher/issues).
+- **SHA256**: [MakeItSo_macOS.sha256.txt](https://github.com/BobQuickSaveSmith/Make-It-So-GZDoom-Launcher/releases/latest/download/MakeItSo_macOS.sha256.txt)
