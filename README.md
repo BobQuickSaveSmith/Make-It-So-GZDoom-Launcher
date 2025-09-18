@@ -43,8 +43,13 @@
 ### 🖼 Screenshots
 
 <p align="center">
-  <img src="assets/screenshot_1.png" width="700" alt="Screenshot 1"><br><br>
-  <img src="assets/screenshot_2.png" width="700" alt="Screenshot 2">
+  <!-- App UI: larger -->
+  <img src="assets/screenshot_1.png" width="900" alt="App UI">
+</p>
+
+<p align="center">
+  <!-- Dock menu: smaller -->
+  <img src="assets/screenshot_2.png" width="420" alt="Dock menu in macOS Dock">
 </p>
 
 > 📸 More images may appear in Releases or the Wiki
