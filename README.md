@@ -48,8 +48,7 @@
 </p>
 
 <p align="center">
-  <!-- Dock menu: smaller -->
-  <img src="assets/screenshot_2.png" alt="Dock menu in macOS Dock">
+  <img src="assets/screenshot_2@2x.png" width="320" alt="Dock menu in macOS Dock">
 </p>
 
 > 📸 More images may appear in Releases or the Wiki
