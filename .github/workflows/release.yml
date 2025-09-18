@@ -1,0 +1,11 @@
+name: Release (Make It So)
+on:
+  push:
+    tags:
+      - "v*"
+jobs:
+  echo-release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Report tag
+        run: echo "Tag $GITHUB_REF_NAME received."

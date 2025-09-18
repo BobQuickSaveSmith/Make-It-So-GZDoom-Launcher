@@ -1,0 +1,38 @@
+Make It So — Publish Summary
+Run finished at: 2025-09-13 09:44:50 PDT
+Script version: 2025-09-13.r5
+Overall result: SUCCESS
+
+What happened:
+✅ git 2.39.5 @ /usr/bin/git (>= 2.30)
+✅ gh 2.79.0 @ /opt/homebrew/bin/gh (>= 2.0)
+✅ zip is available (/usr/bin/zip)
+✅ xcodebuild is available
+✅ Inside a git repository
+✅ git identity set: Bob <bobbob957@gmail.com>
+• Working tree check OK
+✅ GitHub CLI is logged in
+✅ GitHub API reachable
+⚠ Token may lack 'repo' scope. If release/upload fails, re-auth: gh auth login -s repo,read:org
+Health Check Summary
+────────────────────
+✅ git 2.39.5 @ /usr/bin/git (>= 2.30)
+✅ gh 2.79.0 @ /opt/homebrew/bin/gh (>= 2.0)
+✅ zip is available (/usr/bin/zip)
+✅ xcodebuild is available
+✅ Inside a git repository
+✅ git identity set: Bob <bobbob957@gmail.com>
+• Working tree check OK
+✅ GitHub CLI is logged in
+✅ GitHub API reachable
+⚠ Token may lack 'repo' scope. If release/upload fails, re-auth: gh auth login -s repo,read:org
+✅ Health Check passed (strict).
+• Git repository detected.
+• Remote 'origin' is set: https://github.com/BobQuickSaveSmith/make-it-so-project.git
+• Using repo: BobQuickSaveSmith/make-it-so-project
+
+What to do next:
+• Everything important completed. If something looks off in the release, you can re‑run this script safely.
+
+This report was saved to:
+/Users/paulgamlowski/Documents/Make It So Project/Make It So Project/reports/MakeItSo_Publish_Report_2025-09-13_09-44-36.txt

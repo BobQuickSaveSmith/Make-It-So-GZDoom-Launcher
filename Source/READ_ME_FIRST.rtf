@@ -1,0 +1,282 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2822
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;\f2\fmodern\fcharset0 Courier;
+\f3\fnil\fcharset0 AppleColorEmoji;\f4\fnil\fcharset0 Menlo-Regular;\f5\fmodern\fcharset0 Courier-Bold;
+\f6\fnil\fcharset0 LucidaGrande;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\vieww12000\viewh15840\viewkind0
+\hyphauto1\hyphfactor90
+\deftab720
+\pard\pardeftab720\sa180\partightenfactor0
+
+\f0\b\fs36 \cf0 READ ME FIRST \'97 Make It So\
+\pard\pardeftab720\sa180\partightenfactor0
+
+\f1\b0\fs24 \cf0 This single guide explains 
+\f0\b everything
+\f1\b0  you need to run the packaging script and find your results. It\'92s written for non\uc0\u8209 experts in clear, step\u8209 by\u8209 step language.\
+\pard\pardeftab720\sa180\qc\partightenfactor0
+\cf0 \'97\'97\'97\'97\'97\
+\pard\pardeftab720\sa180\partightenfactor0
+
+\f0\b\fs32 \cf0 What this is\
+\pard\pardeftab720\sa180\partightenfactor0
+
+\f2\b0\fs24 \cf0 Make_It_So.command
+\f1  is a 
+\f0\b one\uc0\u8209 file, double\u8209 clickable
+\f1\b0  script that: - Finds the Xcode project in the same folder - Builds the app in 
+\f0\b Release
+\f1\b0  - Copies clean source files into a package - 
+\f0\b Imports your app icon
+\f1\b0  from a PNG (if present) and embeds it - Optionally creates a DMG and release notes - Writes a final report and opens the results\
+\pard\pardeftab720\li720\sa180\partightenfactor0
+
+\f0\b \cf0 Important:
+\f1\b0  Your Xcode project 
+\f0\b must
+\f1\b0  live in the same folder as the script.\
+\pard\pardeftab720\sa180\partightenfactor0
+
+\f3 \cf0 \uc0\u55357 \u56513 
+\f2  Your Project Folder/\uc0\u8232 
+\f4 \uc0\u9500 \u9472 
+\f2  Make It So.xcodeproj         
+\f4 \uc0\u8592 
+\f2  must be here\uc0\u8232 
+\f4 \uc0\u9500 \u9472 
+\f2  Make_It_So.command             
+\f4 \uc0\u8592 
+\f2  run this\uc0\u8232 
+\f4 \uc0\u9500 \u9472 
+\f2  art/                         
+\f4 \uc0\u8592 
+\f2  put icon.png here (optional, 1024\'d71024 PNG)\uc0\u8232 
+\f4 \uc0\u9492 \u9472 
+\f2  (your Swift files, assets, etc.)\
+\pard\pardeftab720\sa180\qc\partightenfactor0
+
+\f1 \cf0 \'97\'97\'97\'97\'97\
+\pard\pardeftab720\sa180\partightenfactor0
+
+\f0\b\fs32 \cf0 Requirements (once per Mac)\
+\pard\tx360\pardeftab720\li360\fi-360\partightenfactor0
+
+\f1\b0\fs24 \cf0 \'95	macOS with 
+\f0\b Xcode
+\f1\b0  installed\
+\'95	
+\f0\b Command Line Tools
+\f1\b0  (run once): 
+\f2 xcode-select --install
+\f1 \
+\pard\tx360\pardeftab720\li360\fi-360\sa180\partightenfactor0
+\cf0 \'95	The script needs permission to run (see below).\
+\pard\pardeftab720\sa180\qc\partightenfactor0
+\cf0 \'97\'97\'97\'97\'97\
+\pard\pardeftab720\sa180\partightenfactor0
+
+\f0\b\fs32 \cf0 Give the script permission (once)\
+\pard\pardeftab720\sa180\partightenfactor0
+
+\f1\b0\fs24 \cf0 If double\uc0\u8209 clicking does nothing, you likely need to mark it as runnable.\
+\pard\tx360\pardeftab720\li360\fi-360\sa180\partightenfactor0
+\cf0 1.	Open 
+\f0\b Terminal
+\f1\b0 .\
+2.	Type:\
+\pard\pardeftab720\li360\sa180\partightenfactor0
+
+\f2 \cf0 chmod +x Make_It_So.command\
+\pard\tx360\pardeftab720\li360\fi-360\sa180\partightenfactor0
+
+\f1 \cf0 3.	Press 
+\f0\b Return
+\f1\b0 .\
+4.	Now double\uc0\u8209 clicking should work. (You can also run it with 
+\f2 ./Make_It_So.command
+\f1 .)\
+\pard\pardeftab720\sa180\qc\partightenfactor0
+\cf0 \'97\'97\'97\'97\'97\
+\pard\pardeftab720\sa180\partightenfactor0
+
+\f0\b\fs32 \cf0 How to run (every time)\
+\pard\tx360\pardeftab720\li360\fi-360\partightenfactor0
+
+\f1\b0\fs24 \cf0 1.	Put 
+\f5\b Make_It_So.command
+\f1\b0  next to 
+\f5\b Make It So.xcodeproj
+\f1\b0  in the same folder.\
+2.	Double\uc0\u8209 click 
+\f5\b Make_It_So.command
+\f1\b0  (or run 
+\f2 ./Make_It_So.command
+\f1  in Terminal).\
+3.	Follow the on\uc0\u8209 screen prompts. Press 
+\f0\b Return
+\f1\b0  to accept defaults.\
+\pard\tx360\pardeftab720\li360\fi-360\sa180\partightenfactor0
+\cf0 4.	When it finishes, it prints a summary of 
+\f0\b exact paths
+\f1\b0  to everything it made and can open them for you.\
+\pard\pardeftab720\sa180\qc\partightenfactor0
+\cf0 \'97\'97\'97\'97\'97\
+\pard\pardeftab720\sa180\partightenfactor0
+
+\f0\b\fs32 \cf0 What the script builds\
+\pard\pardeftab720\sa180\partightenfactor0
+
+\f1\b0\fs24 \cf0 Everything is placed under a timestamped folder inside 
+\f5\b dist/
+\f1\b0  so you can keep multiple builds.\
+Example:\
+\pard\pardeftab720\sa180\partightenfactor0
+
+\f2 \cf0 dist/MakeItSo_Package_2025-09-12_15-45-23/\uc0\u8232 
+\f4 \uc0\u9500 \u9472 
+\f2  source/        # a clean copy of your project files for sharing\uc0\u8232 
+\f4 \uc0\u9500 \u9472 
+\f2  build/         # temporary build artifacts\uc0\u8232 
+\f4 \uc0\u9500 \u9472 
+\f2  app/           # your compiled .app bundle\uc0\u8232 
+\f4 \uc0\u9474 
+\f2   
+\f4 \uc0\u9492 \u9472 
+\f2  Make It So.app\uc0\u8232 
+\f4 \uc0\u9500 \u9472 
+\f2  MakeItSo_Package_2025-09-12_15-45-23.zip\uc0\u8232 
+\f4 \uc0\u9500 \u9472 
+\f2  MakeItSo_Package_2025-09-12_15-45-23.dmg       (optional, if you said yes)\uc0\u8232 
+\f4 \uc0\u9500 \u9472 
+\f2  MakeItSo_Package_2025-09-12_15-45-23_RELEASE_NOTES.md\uc0\u8232 
+\f4 \uc0\u9492 \u9472 
+\f2  MakeItSo_Package_2025-09-12_15-45-23_AUDIT_REPORT.md\
+\pard\pardeftab720\sa180\partightenfactor0
+
+\f0\b\fs28 \cf0 Where to find the app\
+\pard\tx360\pardeftab720\li360\fi-360\partightenfactor0
+
+\f1\b0\fs24 \cf0 \'95	Inside 
+\f2 dist/.../app/
+\f1  you\'92ll see your 
+\f5\b .app
+\f1\b0  bundle.\
+\pard\tx360\pardeftab720\li360\fi-360\sa180\partightenfactor0
+\cf0 \'95	The script offers to 
+\f0\b open it
+\f1\b0  so you can test right away.\
+\pard\pardeftab720\sa180\qc\partightenfactor0
+\cf0 \'97\'97\'97\'97\'97\
+\pard\pardeftab720\sa180\partightenfactor0
+
+\f0\b\fs32 \cf0 How the icon is imported\
+\pard\pardeftab720\sa180\partightenfactor0
+
+\f1\b0\fs24 \cf0 If you provide a 1024\'d71024 PNG at 
+\f5\b art/icon.png
+\f1\b0  (preferred) or 
+\f2 ./icon.png
+\f1 , the script:\
+\pard\tx360\pardeftab720\li360\fi-360\partightenfactor0
+\cf0 1.	Uses macOS tools 
+\f5\b sips
+\f1\b0  and 
+\f5\b iconutil
+\f1\b0  to convert the PNG into a full 
+\f5\b .icns
+\f1\b0  file.\
+2.	Copies that 
+\f2 .icns
+\f1  to your app at: 
+\f2 YourApp.app/Contents/Resources/AppIcon.icns
+\f1 .\
+3.	Updates 
+\f2 Info.plist
+\f1  with 
+\f2 CFBundleIconFile = AppIcon
+\f1 .\
+4.	Performs a 
+\f0\b local ad\uc0\u8209 hoc code sign
+\f1\b0  to nudge Finder/Dock to refresh the icon.\
+\pard\tx360\pardeftab720\li360\fi-360\sa180\partightenfactor0
+\cf0 5.	Shows your app in Finder. (If the icon still looks old, move the app once or relaunch Finder.)\
+\pard\pardeftab720\li720\sa180\partightenfactor0
+\cf0 If you don\'92t provide a PNG, macOS uses a generic app icon. You can run the icon helper later, too.\
+\pard\pardeftab720\sa180\qc\partightenfactor0
+\cf0 \'97\'97\'97\'97\'97\
+\pard\pardeftab720\sa180\partightenfactor0
+
+\f0\b\fs32 \cf0 Optional: DMG and release notes\
+\pard\tx360\pardeftab720\li360\fi-360\partightenfactor0
+
+\f1\b0\fs24 \cf0 \'95	The script can create a 
+\f0\b DMG
+\f1\b0  (a disk image) to make sharing simple.\
+\pard\tx360\pardeftab720\li360\fi-360\sa180\partightenfactor0
+\cf0 \'95	It also writes 
+\f0\b Release Notes
+\f1\b0  (with checksums) and an 
+\f0\b Audit Report
+\f1\b0  summarizing the build.\
+\pard\pardeftab720\sa180\qc\partightenfactor0
+\cf0 \'97\'97\'97\'97\'97\
+\pard\pardeftab720\sa180\partightenfactor0
+
+\f0\b\fs32 \cf0 The Tools folder\
+\pard\pardeftab720\sa180\partightenfactor0
+
+\f1\b0\fs24 \cf0 You\'92ll find a 
+\f0\b Tools/
+\f1\b0  folder alongside the script.\uc0\u8232 It contains 
+\f0\b optional helper scripts
+\f1\b0 . This folder is updated over time, so 
+\f0\b open it to see what\'92s available
+\f1\b0 .\
+\pard\pardeftab720\sa180\qc\partightenfactor0
+\cf0 \'97\'97\'97\'97\'97\
+\pard\pardeftab720\sa180\partightenfactor0
+
+\f0\b\fs32 \cf0 Troubleshooting\
+\pard\tx360\pardeftab720\li360\fi-360\partightenfactor0
+
+\f1\b0\fs24 \cf0 \'95	
+\f0\b \'93App is from an unidentified developer\'94
+\f1\b0 : Right\uc0\u8209 click the app 
+\f6 \uc0\u8594 
+\f1  
+\f0\b Open
+\f1\b0  
+\f6 \uc0\u8594 
+\f1  Open.\
+\'95	
+\f0\b Script won\'92t run when double\uc0\u8209 clicked
+\f1\b0 : run 
+\f2 chmod +x Make_It_So.command
+\f1 , then try again.\
+\'95	
+\f0\b Icon didn\'92t change right away
+\f1\b0 : move the app once or relaunch Finder (
+\f6 \uc0\u8997 
+\f1  Right\uc0\u8209 click Finder in Dock 
+\f6 \uc0\u8594 
+\f1  
+\f0\b Relaunch
+\f1\b0 ).\
+\pard\tx360\pardeftab720\li360\fi-360\sa180\partightenfactor0
+\cf0 \'95	
+\f0\b Missing tools
+\f1\b0 : install Xcode + Command Line Tools (
+\f2 xcode-select --install
+\f1 ).\
+\pard\pardeftab720\sa180\qc\partightenfactor0
+\cf0 \'97\'97\'97\'97\'97\
+\pard\pardeftab720\sa180\partightenfactor0
+
+\f0\b\fs32 \cf0 Contact\
+\pard\pardeftab720\sa180\partightenfactor0
+
+\f1\b0\fs24 \cf0 Questions or ideas? 
+\f0\b makeitsoapp@proton.me
+\f1\b0 \
+}

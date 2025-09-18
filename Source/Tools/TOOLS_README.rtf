@@ -1,0 +1,226 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2822
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;\f2\fmodern\fcharset0 Courier;
+\f3\fnil\fcharset0 LucidaGrande;\f4\fswiss\fcharset0 Helvetica-Oblique;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\vieww12000\viewh15840\viewkind0
+\hyphauto1\hyphfactor90
+\deftab720
+\pard\pardeftab720\sa180\partightenfactor0
+
+\f0\b\fs36 \cf0 Tools Folder \'97 What\'92s Inside & How to Use It\
+\pard\pardeftab720\sa180\partightenfactor0
+
+\f1\b0\fs24 \cf0 This guide explains the helper scripts you\'92ll find in the 
+\f0\b Tools/
+\f1\b0  folder. Each script is double\uc0\u8209 clickable on macOS. If a script doesn\'92t open when you double\u8209 click it, give it permission first:\
+\pard\pardeftab720\sa180\partightenfactor0
+
+\f2 \cf0 chmod +x "<script name>.command"\
+\pard\pardeftab720\sa180\partightenfactor0
+
+\f1 \cf0 Then just double\uc0\u8209 click it in Finder (or run it from Terminal).\
+\pard\pardeftab720\li720\sa180\partightenfactor0
+\cf0 Tip: Most tools show friendly prompts. If a path is needed, you can usually 
+\f0\b drag a file or app into the Terminal
+\f1\b0  window and press 
+\f0\b Return
+\f1\b0 .\
+\pard\pardeftab720\sa180\qc\partightenfactor0
+\cf0 \'97\'97\'97\'97\'97\
+\pard\pardeftab720\sa180\partightenfactor0
+
+\f0\b\fs32 \cf0 1) Change Any App Icon.command\
+\pard\pardeftab720\sa180\partightenfactor0
+
+\fs24 \cf0 Purpose
+\f1\b0 \uc0\u8232 Update the icon of 
+\f0\b any
+\f1\b0  macOS 
+\f2 .app
+\f1  you choose. It converts a PNG into a full 
+\f2 .icns
+\f1  set and embeds it in the app\'92s Resources, updates 
+\f2 Info.plist
+\f1 , and (when possible) re\uc0\u8209 signs the app locally to refresh Finder/Dock.\
+
+\f0\b Typical flow
+\f1\b0 \uc0\u8232 1. You\'92ll be prompted to pick an 
+\f0\b icon PNG
+\f1\b0  (1024\'d71024 recommended).\uc0\u8232 2. You\'92ll be prompted to pick the 
+\f0\b target .app
+\f1\b0 .\uc0\u8232 3. The script converts the PNG 
+\f3 \uc0\u8594 
+\f1  
+\f2 .icns
+\f1 , sets 
+\f2 CFBundleIconFile
+\f1 , and ad\uc0\u8209 hoc signs.\u8232 4. It reveals the updated app in Finder.\
+
+\f0\b Good to know
+\f1\b0 \uc0\u8232 - If the icon doesn\'92t update immediately, move/rename the app once or 
+\f0\b Relaunch Finder
+\f1\b0  (
+\f3 \uc0\u8997 
+\f1  right\uc0\u8209 click Finder in Dock 
+\f3 \uc0\u8594 
+\f1  
+\f4\i Relaunch
+\f1\i0 ).\
+\pard\pardeftab720\sa180\qc\partightenfactor0
+\cf0 \'97\'97\'97\'97\'97\
+\pard\pardeftab720\sa180\partightenfactor0
+
+\f0\b\fs32 \cf0 2) Change Make It So App Icon.command\
+\pard\pardeftab720\sa180\partightenfactor0
+
+\fs24 \cf0 Purpose
+\f1\b0 \uc0\u8232 Same idea as above, but 
+\f0\b pre\uc0\u8209 wired for your Make It So build output
+\f1\b0 . It tries to auto\uc0\u8209 find:\u8232 - 
+\f2 art/icon.png
+\f1  (or 
+\f2 icon.png
+\f1 ) next to your project, and\uc0\u8232 - the 
+\f0\b newest
+\f1\b0  packaged app under 
+\f2 dist/**/app/*.app
+\f1 .\
+
+\f0\b Typical flow
+\f1\b0 \uc0\u8232 1. Run the script; it will auto\u8209 detect the most recent app and icon.\u8232 2. If it can\'92t find them, it will 
+\f0\b ask you
+\f1\b0  to pick the PNG and the 
+\f2 .app
+\f1 .\uc0\u8232 3. It embeds the icon and refreshes the app signature locally.\
+\pard\pardeftab720\sa180\qc\partightenfactor0
+\cf0 \'97\'97\'97\'97\'97\
+\pard\pardeftab720\sa180\partightenfactor0
+
+\f0\b\fs32 \cf0 3) GZDoom Advanced macOS Launcher Script.command\
+\pard\pardeftab720\sa180\partightenfactor0
+
+\fs24 \cf0 Purpose
+\f1\b0 \uc0\u8232 A convenience launcher for 
+\f0\b GZDoom
+\f1\b0  on macOS. It is designed to help you start GZDoom with your preferred WAD/PK3 files and settings without typing long command lines.\
+
+\f0\b Typical flow
+\f1\b0  
+\f4\i (exact prompts may vary)
+\f1\i0 \uc0\u8232 1. Choose your 
+\f0\b GZDoom.app
+\f1\b0  or executable (first run).\uc0\u8232 2. Pick an 
+\f0\b IWAD / PWAD / PK3
+\f1\b0  or a folder with game data.\uc0\u8232 3. Optional: set extra parameters (mods, fullscreen, etc.).\u8232 4. The script launches GZDoom with the selected content.\
+
+\f0\b Good to know
+\f1\b0 \uc0\u8232 - Keep your WADs in a consistent folder so they\'92re easy to pick.\u8232 - If GZDoom isn\'92t installed, get the latest build from the official project and place it in 
+\f2 /Applications
+\f1  or another known location.\
+\pard\pardeftab720\sa180\qc\partightenfactor0
+\cf0 \'97\'97\'97\'97\'97\
+\pard\pardeftab720\sa180\partightenfactor0
+
+\f0\b\fs32 \cf0 4) Make .app Compiler.command\
+\pard\pardeftab720\sa180\partightenfactor0
+
+\fs24 \cf0 Purpose
+\f1\b0 \uc0\u8232 Create a 
+\f0\b clickable macOS .app
+\f1\b0  wrapper for a script or simple command entry point. Useful when you want a true app bundle that users can run from Finder like any other application.\
+
+\f0\b Typical flow
+\f1\b0  
+\f4\i (may vary depending on your setup)
+\f1\i0 \uc0\u8232 1. You\'92ll provide a script or command you\'92d like wrapped.\u8232 2. The tool generates a minimal 
+\f2 .app
+\f1  bundle around it.\uc0\u8232 3. You can then customize the app\'92s icon using the icon tools above.\
+
+\f0\b Note
+\f1\b0 \uc0\u8232 If your team already distributes a full Swift/Xcode app, you may not need this. It\'92s mainly for turning a script into a user\u8209 friendly app.\
+\pard\pardeftab720\sa180\qc\partightenfactor0
+\cf0 \'97\'97\'97\'97\'97\
+\pard\pardeftab720\sa180\partightenfactor0
+
+\f0\b\fs32 \cf0 5) Organize Project Structure.command\
+\pard\pardeftab720\sa180\partightenfactor0
+
+\fs24 \cf0 Purpose
+\f1\b0 \uc0\u8232 Gently 
+\f0\b standardize your project layout
+\f1\b0  so the packager can find what it needs and your repository stays tidy. It can also create a 
+\f0\b safety backup ZIP
+\f1\b0  before it changes anything.\
+
+\f0\b What it checks/creates
+\f1\b0 \uc0\u8232 - Ensures key folders exist: 
+\f2 art/
+\f1 , 
+\f2 dist/
+\f1 , 
+\f2 docs/
+\f1 , 
+\f2 Tools/
+\f1 , 
+\f2 .github/
+\f1 \uc0\u8232 - Optionally moves loose assets into sensible places (never touches your Xcode files without asking)\u8232 - Can write a basic 
+\f2 .gitignore
+\f1  and boilerplate files if missing\uc0\u8232 - Offers to create a dated backup ZIP 
+\f0\b outside
+\f1\b0  your project first\
+
+\f0\b Running it safely
+\f1\b0 \uc0\u8232 - Double\u8209 click to run. If prompted for backup, it will suggest an iCloud Drive location (or you can enter a path).\u8232 - Choose 
+\f0\b safe mode
+\f1\b0  to keep all source locations intact.\uc0\u8232 - There\'92s usually an 
+\f0\b advanced
+\f1\b0  option that can update references after moving files\'97only use this if you know your project and you agree with every change it proposes.\
+\pard\pardeftab720\sa180\qc\partightenfactor0
+\cf0 \'97\'97\'97\'97\'97\
+\pard\pardeftab720\sa180\partightenfactor0
+
+\f0\b\fs32 \cf0 6) Post To GitHub Release (Auto).command
+\f1\b0\fs24 \
+Purpose\uc0\u8232 Create a GitHub Release and upload the newest ZIP/DMG from dist/, without having to browse manually.\
+How it works\uc0\u8232 - Auto-detects the latest build artifact in dist/ (looks in both direct files and timestamped subfolders).\u8232 - If it can\'92t find one, it asks you to drag a ZIP/DMG.\u8232 - Prompts for repo (owner/repo), tag (e.g., v1.0.0), and a title.\
+GitHub token\uc0\u8232 - Will use GITHUB_TOKEN or GH_TOKEN if set.\u8232 - Otherwise, it looks in the macOS Keychain (makeitso_gh_token).\u8232 - If none is found, it prompts you, and can save to Keychain for next time.\
+Run\uc0\u8232 1) Make it executable (once):\
+chmod +x "Post To GitHub Release (Auto).command"\
+2)	Double-click it in Finder (or run via Terminal).\
+\
+\pard\pardeftab720\sa180\qc\partightenfactor0
+\cf0 \'97\'97\'97\'97\'97\
+\pard\pardeftab720\sa180\partightenfactor0
+
+\f0\b\fs32 \cf0 Running any tool\
+\pard\tx360\pardeftab720\li360\fi-360\sa180\partightenfactor0
+
+\f1\b0\fs24 \cf0 \'95	
+\f0\b Double\uc0\u8209 click
+\f1\b0  the 
+\f2 .command
+\f1  file in Finder.\uc0\u8232 \
+\'95	If nothing happens, grant permission once:\
+\pard\pardeftab720\li360\sa180\partightenfactor0
+
+\f2 \cf0 chmod +x "<tool name>.command"\
+\pard\tx360\pardeftab720\li360\fi-360\sa180\partightenfactor0
+
+\f1 \cf0 \'95	You can also run it from Terminal:\
+\pard\pardeftab720\li360\sa180\partightenfactor0
+
+\f2 \cf0 ./<tool name>.command\
+\pard\pardeftab720\sa180\partightenfactor0
+
+\f0\b \cf0 Support
+\f1\b0 : makeitsoapp@proton.me\
+\pard\pardeftab720\sa180\qc\partightenfactor0
+\cf0 \'97\'97\'97\'97\'97\
+\pard\pardeftab720\sa180\partightenfactor0
+
+\f0\b\fs32 \cf0 \
+\pard\tx360\pardeftab720\li360\fi-360\sa180\partightenfactor0
+
+\f1\b0\fs24 \cf0 \
+}
