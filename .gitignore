@@ -27,3 +27,32 @@ dist/
 # Logs
 *.log
 MakeItSo_Publish_Report_*.txt
+
+# >>> MakeItSo binary artifacts (managed) >>>
+/Release/
+/Releases/
+/dist/
+/build/
+/Build/
+*.dmg
+*.zip
+*.pkg
+*.tar.gz
+*.app
+# <<< MakeItSo binary artifacts (managed) <<<
+
+
+
+# >>> Make It So (managed) >>>
+# Release / build artifacts
+Release/
+Build/
+build/
+*.dmg
+*.zip
+
+# Common local clutter
+.DS_Store
+DerivedData/
+*.xcarchive
+# <<< Make It So (managed) <<<
