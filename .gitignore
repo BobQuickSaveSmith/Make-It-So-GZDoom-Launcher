@@ -56,3 +56,7 @@ build/
 DerivedData/
 *.xcarchive
 # <<< Make It So (managed) <<<
+
+# local helpers
+*rebase*resolver*.command
+*force_resolve*.command
