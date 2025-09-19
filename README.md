@@ -3,6 +3,12 @@
 </p>
 
 # Make It So: GZDoom Launcher
+<!-- MIS-DOWNLOAD-BLOCK-START -->
+## 🔽 Download
+
+> 💾 **Latest Release:** [https://github.com/.../releases/latest](https://github.com/BobQuickSaveSmith/Make-It-So-GZDoom-Launcher/releases/latest)
+
+<!-- MIS-DOWNLOAD-BLOCK-END -->
 **A macOS-native launcher for GZDoom mods and profiles — clean UI, zero terminal required.**
 
 ---
