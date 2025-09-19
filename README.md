@@ -20,7 +20,6 @@
 - **SHA-256**: [MakeItSo_macOS.sha256.txt](https://github.com/BobQuickSaveSmith/Make-It-So-GZDoom-Launcher/releases/latest/download/MakeItSo_macOS.sha256.txt)
 
 > 💡 _macOS Gatekeeper may block the app on first launch.  
-> See [How to Open if Blocked](docs/MakeItSo_How_To_Open_App_If_Blocked.md) for help._
 ### ✨ Highlights
 
 - Create profiles for IWADs/mods with different launch setups
