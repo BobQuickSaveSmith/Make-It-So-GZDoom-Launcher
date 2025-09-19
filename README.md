@@ -3,23 +3,17 @@
 </p>
 
 # Make It So: GZDoom Launcher
-<!-- MIS-DOWNLOAD-BLOCK-START -->
-## 🔽 Download
 
-> 💾 **Latest Release:** [https://github.com/.../releases/latest](https://github.com/BobQuickSaveSmith/Make-It-So-GZDoom-Launcher/releases/latest)
+## 📥 Download
 
-<!-- MIS-DOWNLOAD-BLOCK-END -->
+- 💾 **Latest Release:** [https://github.com/BobQuickSaveSmith/Make-It-So-GZDoom-Launcher/releases/latest](https://github.com/BobQuickSaveSmith/Make-It-So-GZDoom-Launcher/releases/latest)
+
+> 💡 macOS Gatekeeper may block the app on first launch. [How to open it anyway →](docs/MakeItSo_How_To_Open_App_If_Blocked.md)
+
 **A macOS-native launcher for GZDoom mods and profiles — clean UI, zero terminal required.**
 
 ---
 
-### 📦 Download
-
-- **Direct DMG**: [MakeItSo_macOS.dmg](https://github.com/BobQuickSaveSmith/Make-It-So-GZDoom-Launcher/releases/latest/download/MakeItSo_macOS.dmg)
-- **Direct ZIP**: [MakeItSo_macOS.zip](https://github.com/BobQuickSaveSmith/Make-It-So-GZDoom-Launcher/releases/latest/download/MakeItSo_macOS.zip)
-- **SHA-256**: [MakeItSo_macOS.sha256.txt](https://github.com/BobQuickSaveSmith/Make-It-So-GZDoom-Launcher/releases/latest/download/MakeItSo_macOS.sha256.txt)
-
-> 💡 _macOS Gatekeeper may block the app on first launch.  
 ### ✨ Highlights
 
 - Create profiles for IWADs/mods with different launch setups
@@ -62,7 +56,8 @@ GZDoom and all mods referenced remain the property of their respective creators.
 ### 💬 Support & Feedback
 
 If you spot a bug or want to request a feature, feel free to [open an issue](https://github.com/BobQuickSaveSmith/Make-It-So-GZDoom-Launcher/issues).
-- **SHA256**: [MakeItSo_macOS.sha256.txt](https://github.com/BobQuickSaveSmith/Make-It-So-GZDoom-Launcher/releases/latest/download/MakeItSo_macOS.sha256.txt)
+
+---
 
 ## Legal Disclaimer
 
@@ -78,4 +73,3 @@ This app is not affiliated with, endorsed by, or sponsored by id Software, ZeniM
 
 \
 Provided “AS IS”, without warranty of any kind. Use at your own risk.
-
