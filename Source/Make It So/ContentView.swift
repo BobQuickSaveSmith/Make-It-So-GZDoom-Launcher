@@ -2354,7 +2354,7 @@ struct ContentView: View {
                 }
 
                     GroupBox {
-                        DisclosureGroup("🧮 Full Command Line (editable)", isExpanded: $showCLI) {
+                        DisclosureGroup("🧮 Full Command Line (you can edit or copy)", isExpanded: $showCLI) {
                             VStack(alignment: .leading, spacing: 8) {
 
                                 // Binding that SHOWS "~" when Privacy is ON, but SAVES expanded paths.
@@ -2379,7 +2379,7 @@ struct ContentView: View {
                                             ? .constant(abbrevDeep(profile.editedCLI))
                                             : editorBinding
                                     )
-                                    .accessibilityLabel("Full command line")
+                                    .accessibilityLabel("Full Command Line, you can edit or copy")
                                     .allowsHitTesting(!(privacyMode && !profile.uiAllowPrivacyCLIEdit))
                                     .font(.system(.footnote, design: .monospaced))
                                     .frame(minHeight: 80)
@@ -2439,9 +2439,7 @@ struct ContentView: View {
                                     Button("Regenerate from fields") { store.regenerateCLI() }
                                         .disabled(profile.locked)
                                     Spacer()
-                                    Button("Copy List") {
-                                        copyModList(enabledOnly: true, abbreviateHome: privacyMode, filenamesOnly: profile.uiShowFilenamesOnly)
-                                    }
+                                    // Removed redundant Copy List button
                                 }
                             }
                         }
