@@ -2504,18 +2504,31 @@ struct ContentView: View {
 
                                 HStack(spacing: 6) {
                                     Text("Keep")
+                                        .lineLimit(1)
+                                        .fixedSize(horizontal: true, vertical: false)
+                                        .layoutPriority(1)
+
                                     Picker("", selection: $profile.backupKeepCount) {
                                         ForEach(keepChoices, id: \.self) { Text("\($0)").tag($0) }
                                     }
                                     .frame(width: 60)
                                     .pickerStyle(.menu)
                                     .disabled(profile.locked)
+
                                     Text("backups")
+                                        .lineLimit(1)
+                                        .fixedSize(horizontal: true, vertical: false)
+                                        .layoutPriority(1)
                                 }
 
-                                HStack(spacing: 6) {                                    Text("Compress")
+                                HStack(spacing: 6) {
+                                    Text("Compress")
+                                        .lineLimit(1)
+                                        .fixedSize(horizontal: true, vertical: false)
+
                                     Picker("", selection: $profile.backupZip) {
-                                        Text("Yes").tag(true); Text("No").tag(false)
+                                        Text("Yes").tag(true)
+                                        Text("No").tag(false)
                                     }
                                     .frame(width: 70)
                                     .pickerStyle(.menu)
