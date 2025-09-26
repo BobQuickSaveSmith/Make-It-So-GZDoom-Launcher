@@ -1,0 +1,25 @@
+This is for Brutal Pack::
+
+https://www.moddb.com/addons/brutal-pack1 
+https://discord.gg/pM2CKucH
+
+This bind makes it easier by utilizing the support all at once instead of keeping track of 3 separate binds.
+
+autoexec.cfg:
+
+# Crowd Control Announcement Mode
+alias cc_ice     "echo Ice Bomb!; icebomb; wait 15; cc_flame"
+alias cc_flame   "echo Flamecanon!; Flamecanon; wait 15; cc_grenade"
+alias cc_grenade "echo Grenade Toss!; grenadetoss"
+
+gzdoom.ini: 
+
+F=+crowdcontrol
+
+Tip 1: 
+
+If/when editing, I suggest clearing out aliases under [Doom.ConsoleAliases] in gzdoom.ini if you make changes in autoexec.cfg, like for example, I would erase these if I were to rebind or change the order etc:
+
+Tip 2:
+
+Remove echo Ice Bomb!; echo Flamecanon!; echo Grenade Toss!; etc for silence. 

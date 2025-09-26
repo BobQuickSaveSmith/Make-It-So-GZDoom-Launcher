@@ -1,0 +1,22 @@
+This is a typical list of mod files in their proper order that I use with nearly any map/campaign or compatible mod-pack.
+
+BRUTALPACK 10.4.pk3
+Brutal Pack Neural Pack.pk3
+BP-Glory-Kill-3.pk3
+BrutalDoom_PB-Blade custom.pk3
+autoautosave-v1.6.3.pk3
+behold.pk3
+CorruptionCards-v6.3b.pk3
+Crosshair Enemy HP Bar.pk3
+flashlight_plus_plus_v9_1.pk3
+gearbox-0.7.3.pk3
+GunBonsai-0.10.6.pk3
+GZ-WalkItOut.pk3
+LiveReverb.pk3
+minimap_m.pk3
+target-spy-v2.0.1.pk3
+Optional HUD Addon - HXRTCHUD_BP_V10.4v2 El Donte.pk3
+
+Feel free to drop me an email if you need the files. 
+
+makeitsoapp@proton.me
