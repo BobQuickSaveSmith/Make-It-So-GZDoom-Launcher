@@ -19,7 +19,7 @@ These files are **not** part of the launcher itself; they’re just handy add‑
 
 ## 🔗 Quick Links
 
-- 👉 **Download Behold! ZIP**: [extras/behold_release_bundle.zip]($RAW_BASE/behold_release_bundle.zip)
+- 👉 **Download Behold! ZIP**: [Click here to download](https://github.com/BobQuickSaveSmith/Make-It-So-GZDoom-Launcher/raw/main/extras/behold_release_bundle.zip)
 
 > Tip: Right‑click the link above and “Save Link As…” if your browser previews it.
 
