@@ -22,11 +22,11 @@ Note: All files must be loaded with -file or added to your launcher (e.g. ZDL, M
 05. autoautosave-v1.6.3.pk3
    > Automatically saves your game during key moments (map start, boss, checkpoint).
 
-06. behold.pk3
-   > Resurrection addon — activates “Behold!” keybind to respawn mid-map with enemies.  
-     Note: This version does not provide invulnerability.  
-     To use grace invulnerability, load one of the behold_inv_#.pk3 files instead.
-
+06. behold_inv_5.pk3
+   > Resurrection addon — activates "Behold!" keybind to respawn mid-map with enemies.
+     Includes ~5 seconds of grace invulnerability. Variants: behold_inv_3.pk3 (~3s),
+     behold_inv_7.pk3 (~7s), behold_inv_10.pk3 (~10s).
+     For no invulnerability, use behold.pk3.
 07. CorruptionCards-v6.3b.pk3
    > Adds randomized modifiers (cards) between maps. Each card affects gameplay (enemy speed, chaos, etc).
 
