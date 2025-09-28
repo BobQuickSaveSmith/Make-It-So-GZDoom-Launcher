@@ -27,6 +27,7 @@ Note: All files must be loaded with -file or added to your launcher (e.g. ZDL, M
      Includes ~5 seconds of grace invulnerability. Variants: behold_inv_3.pk3 (~3s),
      behold_inv_7.pk3 (~7s), behold_inv_10.pk3 (~10s).
      For no invulnerability, use behold.pk3.
+
 07. CorruptionCards-v6.3b.pk3
    > Adds randomized modifiers (cards) between maps. Each card affects gameplay (enemy speed, chaos, etc).
 
