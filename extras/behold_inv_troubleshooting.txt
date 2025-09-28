@@ -1,0 +1,71 @@
+Troubleshooting & Testing (Invulnerability variants)
+
+These tips apply to: behold_inv_3.pk3, behold_inv_5.pk3,
+behold_inv_7.pk3, behold_inv_10.pk3.
+> Note: The base behold.pk3 has no invulnerability window.
+
+Quick checks
+
+-   Load exactly one inv build at a time. If you load more than one, the
+    last one in your -file list wins.
+-   Put the chosen behold_inv_#.pk3 after any other gameplay mods in
+    your launch order.
+
+Simple “does it work?” test
+
+1.  Start any map.
+
+2.  Open the console and type:
+
+        give DP_GraceGiver
+
+    -   You should get a brief invulnerability effect (screen tint /
+        damage ignored) for the duration of the inv build you loaded
+        (≈3s, 5s, 7s, or 10s).
+    -   If the console says Unknown item ‘DP_GraceGiver’, your inv build
+        isn’t loaded. Check your -file list or launcher load order.
+
+  Tip: If the console says cheats are disabled, enable them temporarily:
+
+    sv_cheats 1
+
+“My Behold trigger doesn’t feel invulnerable”
+
+-   Make sure you actually loaded an inv build (not the base
+    behold.pk3).
+-   Try in a safe area: trigger Behold, immediately step into light
+    enemy fire—you should shrug off damage for the brief window.
+-   Some heavy shader/flash/tint mods can make the visual cue subtle;
+    rely on the damage ignore rather than the tint.
+
+Load‑order sanity (fast)
+
+-   If you use a launcher (MakeItSo, ZDL, etc.), confirm the selected
+    file is the inv variant you intended.
+
+-   If launching by command line, ensure your -file line includes
+    exactly one of:
+
+        -file .../behold_inv_3.pk3
+
+    (or _5, _7, _10)
+
+Picking a duration
+
+-   If the window feels too short/long, switch builds:
+    -   behold_inv_3.pk3 ≈ 3 seconds
+    -   behold_inv_5.pk3 ≈ 5 seconds
+    -   behold_inv_7.pk3 ≈ 7 seconds
+    -   behold_inv_10.pk3 ≈ 10 seconds
+
+Still stuck?
+
+-   Verify no other mod is forcibly removing invulnerability effects.
+-   Test on an empty mod stack (IWAD + your chosen behold_inv_#.pk3
+    only). If it works there, re‑add your other mods until you find a
+    conflict.
+
+Console commands you may use during testing
+
+    sv_cheats 1                // allow testing commands
+    give DP_GraceGiver         // manually trigger the invulnerability window

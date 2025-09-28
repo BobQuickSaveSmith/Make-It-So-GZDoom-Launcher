@@ -36,3 +36,14 @@ These files are **not** part of the launcher itself; they’re just handy add‑
 
 Questions or requests?
 - 📧 **makeitsoapp@proton.me**
+| `behold_inv_variants_readme.txt` | Quick guide to the invulnerability variants and how to use them with **Behold!** |
+| `behold_inv_troubleshooting.txt` | Troubleshooting tips for the inv PK3s: loading order, console tests, conflicts, and sanity checks |
+
+## Additional docs
+
+- **Invulnerability Variants Guide**  
+  [extras/behold_inv_variants_readme.txt](./behold_inv_variants_readme.txt)
+
+- **Troubleshooting (Inv variants)**  
+  [extras/behold_inv_troubleshooting.txt](./behold_inv_troubleshooting.txt)
+
