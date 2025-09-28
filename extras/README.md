@@ -9,7 +9,7 @@ These files are **not** part of the launcher itself; they’re just handy add‑
 
 | File | Description |
 |------|-------------|
-| `behold_release_bundle.zip` | Full standalone ZIP for **Behold!**, a resurrection add‑on for GZDoom |
+| `behold_release_bundle_v2.zip` | Newest version of **Behold!** — includes grace invulnerability options and updated readmes |
 | `behold_readme.txt` | Plain‑text README for Behold! |
 | `behold.png` | Preview image for Behold! |
 | `crowdcontrol_bind_for_bp.txt` | Example keybind sequence for Crowd Control (Brutal Pack) |
@@ -19,7 +19,7 @@ These files are **not** part of the launcher itself; they’re just handy add‑
 
 ## 🔗 Quick Links
 
-- 👉 **Download Behold! ZIP**: [Click here to download](https://github.com/BobQuickSaveSmith/Make-It-So-GZDoom-Launcher/raw/main/extras/behold_release_bundle.zip)
+- 👉 **Download Behold! ZIP**: [Click here to download](https://github.com/BobQuickSaveSmith/Make-It-So-GZDoom-Launcher/raw/main/extras/behold_release_bundle_v2.zip)
 
 > Tip: Right‑click the link above and “Save Link As…” if your browser previews it.
 
