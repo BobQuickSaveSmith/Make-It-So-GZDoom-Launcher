@@ -19,3 +19,11 @@ BEHOLD_BP_README.txt    Full player & technical guide for Behold! — BP Edition
 Behold_BP_Variants_Guide.txt    Explains the 40 pre-built variants (filename parts, how to pick, examples).
 brutalpack_summonable_monsters.txt    Summonable monster reference for Brutal Pack: testing/spawn lists by category.
 Behold_BP_V1.zip    Complete Behold! — BP pack (Main .pk3 + variant builds) for quick download.
+
+—
+Additional files (Behold! BP Edition):
+
+BEHOLD_BP_README.txt    Full player & technical guide for Behold! — BP Edition (load order, keybinds, modes, SOS, advanced edits).
+Behold_BP_Variants_Guide.txt    Explains the 40 pre-built variants (filename parts, how to pick, examples).
+brutalpack_summonable_monsters.txt    Summonable monster reference for Brutal Pack: testing/spawn lists by category.
+Behold_BP_V1.zip    Complete Behold! — BP pack (Main .pk3 + variant builds) for quick download.

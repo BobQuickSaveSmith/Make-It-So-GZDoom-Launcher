@@ -20,6 +20,12 @@ Note: All files must be loaded with -file or added to your launcher (e.g. ZDL, M
     > Behold! – BP Edition add-on — resurrection & crowd-control built for Brutal Pack.
       Defaults in Main build: Earthquake = Whiplash, Spawn Mode = Random Mayhem,
       Message Style = HUD/Bold. (40 variants available for other combinations.)
+04. (other gameplay/visual mods as desired)
+05. (HUD packs / add-ons)
+06. Behold_BP_Main.pk3
+    > Behold! – BP Edition add-on — resurrection & crowd-control built for Brutal Pack.
+      Defaults in Main build: Earthquake = Whiplash, Spawn Mode = Random Mayhem,
+      Message Style = HUD/Bold. (40 variants available for other combinations.)
    > Adds glory-kill style finishers. When enemies are weak, you can execute flashy kills.
 
 04. BrutalDoom_PB-Blade custom.pk3
