@@ -1,0 +1,56 @@
+Behold! BP — Variants Guide (with Filename Segment Reference)
+==================================================
+
+Overview
+--------
+The default Behold!- BP release comes with one recommended version plus a full set of 40 advanced variants.
+
+If you only want to play defaults, just load Behold_BP_Main.pk3 and you’re done.
+
+Behold_BP_Main.pk3 → HUD messages + Whiplash earthquake + Random spawn mode
+
+If you’re curious or want to experiment, explore the variants/ folder.
+Each PK3 is a fully working version with different defaults for message style, earthquake intensity, and spawn behavior.
+
+Folder Layout Example
+---------------------
+Behold_BP_Release_v1.0/
+├── Behold_BP_README.txt
+├── Behold_BP_Main.pk3              ← Recommended version
+└── variants/
+    ├── behold_bp_hud_eq-whip_spawn-random.pk3
+    ├── behold_bp_console_eq-jolt_spawn-fury.pk3
+    ├── behold_bp_hud_eq-cine_spawn-more.pk3
+    └── ... more up to 40 total
+
+
+How to Read Variant Names
+-------------------------
+Each filename is built from clear segments describing its configuration:
+
+| Segment | Meaning | Examples |
+|----------|----------|-----------|
+| hud / console | Display style of messages. hud = on-screen text (cinematic). console = quieter, printed log style. | hud → immersive, flashy; console → minimalist |
+| eq-xxxxx | Earthquake behavior (camera shake + sound). | eq-whip → short, snappy quake; eq-jolt → hard hit; eq-sway → rolling motion; eq-cine → cinematic rumble |
+| spawn-xxxxx | Monster spawn logic for Behold events. | spawn-quad → four foes at once; spawn-more → heavier density; spawn-random → unpredictable; spawn-fury → escalating chaos; spawn-apoc → total mayhem |
+
+Examples
+--------
+- behold_bp_console_eq-jolt_spawn-fury.pk3 → Console messages + Jolt earthquake + Fury spawn mode
+- behold_bp_hud_eq-whip_spawn-random.pk3 → HUD messages + Whiplash quake + Random spawn mode
+- behold_bp_console_eq-cine_spawn-apoc.pk3 → Console messages + Cinematic quake + Apocalypse spawn mode
+
+How to Use
+----------
+1. Place the entire Behold_BP_Release_v1.0 folder anywhere you like.
+2. Load one PK3 at a time in GZDoom (either the main version or any single variant).
+3. Do not load multiple variants together.
+
+Tips
+----
+- For a calmer, subtler experience → eq-whip or eq-sway
+- For chaos and maximum fun → spawn-apoc or spawn-fury
+- Console versions keep your screen cleaner — good for streamers or minimalists.
+- HUD versions are flashier and more cinematic.
+
+

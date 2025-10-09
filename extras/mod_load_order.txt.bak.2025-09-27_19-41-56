@@ -1,0 +1,82 @@
+Typical Mod Load Order (with Descriptions)
+===========================================
+
+This is a typical list of mod files (PK3s) used with GZDoom.  
+They’re listed in the load order that works well for most maps, campaigns, and mod packs.
+
+Note: All files must be loaded with -file or added to your launcher (e.g. ZDL, Make It So).
+
+------------------------------------------------------------
+01. BRUTALPACK 10.4.pk3
+   > Core combat and weapon overhaul. Adds movement enhancements, new ammo/health behavior, and shoulder-mounted weapons like ice grenades.
+
+02. Brutal Pack Neural Pack.pk3
+   > Visual upgrade: replaces sprites with high-resolution neural AI-enhanced variants.
+
+03. BP-Glory-Kill-3.pk3
+   > Adds glory-kill style finishers. When enemies are weak, you can execute flashy kills.
+
+04. BrutalDoom_PB-Blade custom.pk3
+   > Adds a melee blade weapon — custom hybrid inspired by Project Brutality and Brutal Doom.
+
+05. autoautosave-v1.6.3.pk3
+   > Automatically saves your game during key moments (map start, boss, checkpoint).
+
+06. behold.pk3
+   > Resurrection addon — activates “Behold!” keybind to respawn mid-map with enemies.  
+     Note: This version does not provide invulnerability.  
+     To use grace invulnerability, load one of the behold_inv_#.pk3 files instead.
+
+07. CorruptionCards-v6.3b.pk3
+   > Adds randomized modifiers (cards) between maps. Each card affects gameplay (enemy speed, chaos, etc).
+
+08. Crosshair Enemy HP Bar.pk3
+   > Displays a health bar for the enemy you’re currently aiming at.
+
+09. flashlight_plus_plus_v9_1.pk3
+   > Enhanced flashlight with battery system and adjustable brightness.
+
+10. gearbox-0.7.3.pk3
+   > Weapon/item wheel. Lets you cycle and manage inventory more conveniently.
+
+11. GunBonsai-0.10.6.pk3
+   > Adds progression system: gain XP and perks by using your weapons.
+
+12. GZ-WalkItOut.pk3
+   > Makes your legs visible when you look down. A cosmetic immersion mod.
+
+13. LiveReverb.pk3
+   > Adds dynamic reverb and echo to the game world — adapts to room shapes and sizes.
+
+14. minimap_m.pk3
+   > Displays a compact minimap overlay in-game (helpful in large maps).
+
+15. target-spy-v2.0.1.pk3
+   > A lightweight mod that adds enemy info (name + HP bar) in a subtle display.
+
+16. Optional HUD Addon - HXRTCHUD_BP_V10.4v2 El Donte.pk3
+   > Custom HUD designed for Brutal Pack. Enhanced status indicators, cleaner layout.
+
+------------------------------------------------------------
+How to Load Mods
+=================
+
+Using ZDL, Make It So or similar launcher:
+1. Add each .pk3 in the order listed above.
+2. Select your IWAD (Doom II or Ultimate Doom).
+3. Launch GZDoom.
+
+Using terminal / command line:
+gzdoom -iwad doom2.wad -file BRUTALPACK\ 10.4.pk3 Brutal\ Pack\ Neural\ Pack.pk3 ... behold.pk3
+
+Replace behold.pk3 with your preferred invincibility version, e.g.:
+- behold_inv_3.pk3 for 3 seconds
+- behold_inv_5.pk3 for 5 seconds
+- behold_inv_10.pk3 for extended safety
+
+Only load one of the behold_inv_#.pk3 files at a time!
+
+------------------------------------------------------------
+
+Questions? Want these mods?
+📩 Email: makeitsoapp@proton.me
