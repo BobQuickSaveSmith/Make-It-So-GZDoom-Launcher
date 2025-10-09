@@ -1,13 +1,47 @@
 # Example GZDoom Load Order (Make It So launcher)
 # Save as plain text. Load order is top → bottom.
 
-01. DOOM2.WAD (IWAD)
-02. (optional) Map pack / megawad
-03. (optional) Texture packs / shaders
-04. BRUTALPACK 10.x.pk3 — must load BEFORE Behold! BP
-05. Behold_BP_Main.pk3 — default build:
-    - Earthquake: WHIPLASH
-    - Spawn Mode: RANDOM MAYHEM
-    - Message Style: HUD/BOLD
-    You may swap in any of the 40 variants.
-06. (optional) Compatibility or QoL patches (after Behold_BP)
+01. BRUTALPACK 10.4.pk3
+    > Core gameplay overhaul (base mod). Adds advanced AI, gore, and shoulder weapons.
+02. Brutal Pack Neural Pack.pk3
+    > High-res AI-upscaled textures and sprites for Brutal Pack visuals.
+03. BP-Glory-Kill-3.pk3
+    > Adds cinematic glory-kill executions (v3).
+04. BrutalDoom_PB-Blade custom.pk3
+    > Custom melee system and blade weapon variant for PB/BP compatibility.
+05. autoautosave-v1.6.3.pk3
+    > Automatically creates rolling autosaves during gameplay.
+06. Behold_BP_Main.pk3
+    > Resurrection and crowd-control addon for Brutal Pack.
+      Default configuration:
+        - Earthquake preset: Whiplash
+        - Spawn mode: Random Mayhem
+        - Message style: HUD / Bold
+      Must load *after* Brutal Pack to hook into its shoulder-weapon logic,
+      resurrection system, and monster definitions.
+      Forty variants are available for alternate quake, message, and spawn styles.
+07. CorruptionCards-v6.3b.pk3
+    > Random gameplay modifiers that add roguelike twists to each map.
+08. Crosshair Enemy HP Bar.pk3
+    > Displays enemy health directly under the crosshair.
+09. flashlight_plus_plus_v9_1.pk3
+    > Enhanced flashlight with adjustable beam and flicker.
+10. gearbox-0.7.3.pk3
+    > Custom weapon and upgrade selector; integrates with most weapon mods.
+11. GunBonsai-0.10.6.pk3
+    > Weapon XP and perk system that evolves your guns over time.
+12. GZ-WalkItOut.pk3
+    > Fitness-style movement tracker (encourages constant movement).
+13. LiveReverb.pk3
+    > Dynamic environmental reverb based on sector type and geometry.
+14. minimap_m.pk3
+    > Adds an overlay minimap with custom colors and transparency options.
+15. target-spy-v2.0.1.pk3
+    > Displays detailed info about enemies, damage type, and distance.
+16. Optional HUD Addon - HXRTCHUD_BP_V10.4v2 El Donte.pk3
+    > Alternate HUD layout tuned for Brutal Pack 10.4.
+
+# Notes:
+# - Load order is top → bottom (higher numbers override earlier ones).
+# - Behold_BP_Main.pk3 replaces older behold_inv_* versions.
+# - All other mods are optional but tested compatible with BP 10.4 + Behold BP Edition.
