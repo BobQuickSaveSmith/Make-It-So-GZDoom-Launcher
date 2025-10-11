@@ -1,6 +1,6 @@
 # 🔥 Brutal Pack Setup (Make-It-So Extras)
 
-This folder contains pre-configured files and load-order guidance for running **Project Brutality / Brutal Pack** mods with *GZDoom*.
+This folder contains pre-configured files and load-order guidance for running **Brutal Pack** with add-ons for *GZDoom*.
 
 ---
 
@@ -8,8 +8,8 @@ This folder contains pre-configured files and load-order guidance for running **
 
 | File | Description | Download |
 |------|--------------|-----------|
-| **README_mod_load_order.txt** | Describes file order, sources, and dependencies. | [📥 Download](https://github.com/BobQuickSaveSmith/Make-It-So-GZDoom-Launcher/raw/main/extras/brutalpacksetup/README_mod_load_order.txt) |
-| **brutalpack_and_extras_quick_install.zip** | Complete setup bundle for newcomers. | [📥 Download](https://github.com/BobQuickSaveSmith/Make-It-So-GZDoom-Launcher/raw/main/extras/brutalpacksetup/brutalpack_and_extras_quick_install.zip) |
+| **README_mod_load_order.txt** | File descriptions, ordering, and sources. | [📥 Download](https://github.com/BobQuickSaveSmith/Make-It-So-GZDoom-Launcher/raw/main/extras/brutalpacksetup/README_mod_load_order.txt) |
+| **brutalpack_and_extras_quick_install.zip** | Complete setup bundle. | [📥 Download](https://github.com/BobQuickSaveSmith/Make-It-So-GZDoom-Launcher/raw/main/extras/brutalpacksetup/brutalpack_and_extras_quick_install.zip) |
 
 ---
 
