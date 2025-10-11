@@ -13,7 +13,7 @@ Behold! - BP is an add-on and must be loaded **after** the Brutal Pack mod in GZ
 
 Load Example:
 1. BRUTALPACK 10.x.pk3
-2. Behold_BP_Main.pk3  (or any variant)
+2. Behold_BP_Main.pk3
 
 Why:
 This ensures Behold! correctly overrides and integrates with Brutal Pack’s shoulder weapons,
@@ -121,7 +121,6 @@ Console utilities (safe to summon):
 
 Message style:
 - **DP_MsgStyleToggle** + token **DP_ConsoleOnlyMsgs**
-  - NO “Quiet Mode” toggle in BP Edition docs (removed from README by request).
 
 Earthquake presets (camera shake + SFX):
 - **DP_RumblePulse** (a.k.a. Whiplash; shortest one‑shot)
