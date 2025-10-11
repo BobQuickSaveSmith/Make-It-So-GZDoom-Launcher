@@ -22,88 +22,88 @@ Extract this ZIP directly into your GZDoom mods folder or into a custom director
 > Be sure to **load the files in the following order** (top → bottom) when launching GZDoom.  
 > Using this order ensures all mods load correctly and maintain compatibility.
 
-### 1 **BRUTALPACK 10.4.pk3**  
+### 1) **BRUTALPACK 10.4.pk3**  
 > Core gameplay overhaul (base mod). Adds advanced AI, gore, and shoulder weapons.  
  [ModDB](https://www.moddb.com/addons/brutal-pack1)
 
 ---
 
-### 2 **Brutal Pack Neural Pack.pk3**  
+### 2) **Brutal Pack Neural Pack.pk3**  
 > High-res AI-upscaled textures and sprites for Brutal Pack visuals.  
  [YouTube Preview](https://www.youtube.com/watch?v=XEJTqbG27U4) · [Mega.nz Download](https://mega.nz/folder/04ZSyaRZ#bhhD8MpbOliZxHf9W-aHFg)
 
 ---
 
-### 3 **BP-Glory-Kill-3.pk3**  
+### 3) **BP-Glory-Kill-3.pk3**  
 > Adds cinematic glory-kill executions (v3).  
   [Discord Channel](https://discord.gg/GczEEGda) → `#brutal-pack-adons` (Pinned Messages)  
   [Direct Download](https://cdn.discordapp.com/attachments/847544765393797171/1380698783087591504/BP-Glory-Kill.pk3)
 
 ---
 
-### 4 **BrutalDoom_PB-Blade_custom.pk3**  
+### 4) **BrutalDoom_PB-Blade_custom.pk3**  
 > Custom melee system and blade weapon variant for PB/BP compatibility.  
   [Discord](https://discord.gg/GczEEGda) → `#suggestions-weapons-and-abilities`  
   [Direct Download](https://cdn.discordapp.com/attachments/847855773202776114/1413531810318520421/BrutalDoom_PB-Blade_custom.pk3)
 
 ---
 
-### 5 **autoautosave-v1.6.3.pk3**  
+### 5) **autoautosave-v1.6.3.pk3**  
 > Automatically creates rolling autosaves during gameplay.  
-🔗 [Forum](https://forum.zdoom.org/viewtopic.php?f=43&t=59889) · [GitHub](https://github.com/mmaulwurff/autoautosave)
+  [Forum](https://forum.zdoom.org/viewtopic.php?f=43&t=59889) · [GitHub](https://github.com/mmaulwurff/autoautosave)
 
 ---
 
-### 6 **Behold_BP_Main.pk3**  
+### 6) **Behold_BP_Main.pk3**  
 > Resurrection and crowd-control addon for Brutal Pack.  
-🔗 [ModDB](https://www.moddb.com/games/doom/downloads/behold-bp)
+  [ModDB](https://www.moddb.com/games/doom/downloads/behold-bp)
 
 ---
 
-### 7 **CorruptionCards-v6.3b.pk3**  
+### 7) **CorruptionCards-v6.3b.pk3**  
 > Random gameplay modifiers that add roguelike twists to each map.  
-🔗 [Forum](https://forum.zdoom.org/viewtopic.php?t=67939) · [ModDB](https://www.moddb.com/mods/corruption-cards/downloads/corruptioncards-v63b)
+ [Forum](https://forum.zdoom.org/viewtopic.php?t=67939) · [ModDB](https://www.moddb.com/mods/corruption-cards/downloads/corruptioncards-v63b)
 
 ---
 
-### 8 **crosshairhp.pk3**  
+### 8) **crosshairhp.pk3**  
 > Displays enemy health directly under the crosshair.  
  [Forum](https://forum.zdoom.org/viewtopic.php?t=60356) · [GitHub Releases](https://github.com/Tekkish/CrosshairHP/releases/tag/v1.28)
 
 ---
 
-### 9 **flashlight_plus_plus_v9_1.pk3**  
+### 9) **flashlight_plus_plus_v9_1.pk3**  
 > Enhanced flashlight with adjustable beam and flicker.  
   [ModDB](https://www.moddb.com/games/doom/addons/flashlight-plus-plus) · [Forum](https://forum.zdoom.org/viewtopic.php?f=43&t=75585&p=1221621)
 
 ---
 
-### 10 **gearbox-0.7.3.pk3**  
+### 10) **gearbox-0.7.3.pk3**  
 > Custom weapon and upgrade selector; integrates with most weapon mods.  
   [GitHub](https://github.com/mmaulwurff/gearbox) · [Forum](https://forum.zdoom.org/viewtopic.php?t=71086)
 
 ---
 
-### 11 **GunBonsai-0.10.6.pk3**  
+### 11) **GunBonsai-0.10.6.pk3**  
 > Weapon XP and perk system that evolves your guns over time.  
   [GitHub](https://github.com/ToxicFrog/doom-mods/releases/tag/gun-bonsai-0.10.6) · [Forum](https://forum.zdoom.org/viewtopic.php?t=76080)
 
 ---
 
-### 12 **LiveReverb.pk3**  
+### 12) **LiveReverb.pk3**  
 > Dynamic environmental reverb based on sector type and geometry.  
   [Doomworld](https://www.doomworld.com/forum/topic/120740-livereverb-dynamic-reverb-for-all-doom-maps/) · [Forum](https://forum.zdoom.org/viewtopic.php?t=71849)
 
 ---
 
-### 13 **minimap_m.pk3**  
+### 13) **minimap_m.pk3**  
 > Adds an overlay minimap with custom colors and transparency options.  
   [Discord](https://discord.gg/GczEEGda) → `#suggestions-monsters_and_items`  
   [Direct Download](https://cdn.discordapp.com/attachments/847044078679359508/1413200124925968385/minimap_m.pk3)
 
 ---
 
-### 14 **HXRTCHUD_BP_V10.4a_v2.pk3**  
+### 14) **HXRTCHUD_BP_V10.4a_v2.pk3**  
 > Alternate HUD layout tuned for Brutal Pack 10.4.  
   [Discord](https://discord.gg/GczEEGda) → `#brutal-pack-adons` (Pinned Messages)  
   [Direct Download](https://cdn.discordapp.com/attachments/847544765393797171/1417114209056985138/HXRTCHUD_BP_V10.4a_v2.pk3)
