@@ -16,8 +16,8 @@ Extract this ZIP directly into your GZDoom mods folder or into a custom director
 
 ## 🧭 Load Order (Top → Bottom)
 
-> The included ZIP already follows this order.  
-> Use this section for reference if installing manually.
+> Be sure to **load the files in the following order** (top → bottom) when launching GZDoom.  
+> Using this order ensures all mods load correctly and maintain compatibility.
 
 ### 1️⃣ **BRUTALPACK 10.4.pk3**  
 > Core gameplay overhaul (base mod). Adds advanced AI, gore, and shoulder weapons.  
@@ -111,7 +111,7 @@ Extract this ZIP directly into your GZDoom mods folder or into a custom director
 
 1. **Download** the full ZIP above.  
 2. **Extract** it into your GZDoom mods folder (or a preferred directory).  
-3. **Load the mods** in this order (top → bottom) when launching GZDoom.  
+3. **Load the mods in the order shown above.**  
 4. Optional: use the [**Make-It-So GZDoom Launcher**](https://github.com/BobQuickSaveSmith/Make-It-So-GZDoom-Launcher) for easy load-order management.
 
 ---
