@@ -1,7 +1,10 @@
 # 🔥 Brutal Pack Setup - My Personal Recommendation 
 
 This zip file contains a complete, pre-configured setup for running **Brutal Pack** with my personally recommended add-ons for *GZDoom*.  
-It includes all core files in one download for convenience, plus reference details below if you prefer to install manually.
+
+It includes all core files in one download for convenience.
+
+Details are provided below for load order, sources, and to give various creators credit.
 
 ---
 
