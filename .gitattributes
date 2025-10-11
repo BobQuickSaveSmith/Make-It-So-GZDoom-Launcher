@@ -1,0 +1,2 @@
+extras/*.zip filter=lfs diff=lfs merge=lfs -text
+extras/**/*.zip filter=lfs diff=lfs merge=lfs -text
