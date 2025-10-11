@@ -37,15 +37,13 @@ Extract this ZIP directly into your GZDoom mods folder or into a custom director
 ### 3) **BP-Glory-Kill-3.pk3**  
 > Adds cinematic glory-kill executions (v3).  
   [Discord Channel](https://discord.gg/GczEEGda) → `#brutal-pack-adons` (Pinned Messages)  
-  [Direct Download](https://cdn.discordapp.com/attachments/847544765393797171/1380698783087591504/BP-Glory-Kill.pk3)
 
 ---
 
 ### 4) **BrutalDoom_PB-Blade_custom.pk3**  
 > Custom melee system and blade weapon variant for PB/BP compatibility.  
   [Discord](https://discord.gg/GczEEGda) → `#suggestions-weapons-and-abilities`  
-  [Direct Download](https://cdn.discordapp.com/attachments/847855773202776114/1413531810318520421/BrutalDoom_PB-Blade_custom.pk3)
-
+  
 ---
 
 ### 5) **autoautosave-v1.6.3.pk3**  
@@ -99,14 +97,12 @@ Extract this ZIP directly into your GZDoom mods folder or into a custom director
 ### 13) **minimap_m.pk3**  
 > Adds an overlay minimap with custom colors and transparency options.  
   [Discord](https://discord.gg/GczEEGda) → `#suggestions-monsters_and_items`  
-  [Direct Download](https://cdn.discordapp.com/attachments/847044078679359508/1413200124925968385/minimap_m.pk3)
 
 ---
 
 ### 14) **HXRTCHUD_BP_V10.4a_v2.pk3**  
 > Alternate HUD layout tuned for Brutal Pack 10.4.  
   [Discord](https://discord.gg/GczEEGda) → `#brutal-pack-adons` (Pinned Messages)  
-  [Direct Download](https://cdn.discordapp.com/attachments/847544765393797171/1417114209056985138/HXRTCHUD_BP_V10.4a_v2.pk3)
 
 ---
 
