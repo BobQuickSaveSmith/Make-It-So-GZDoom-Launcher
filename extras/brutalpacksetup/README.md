@@ -1,6 +1,6 @@
 # 🔥 Brutal Pack Setup (Make-It-So Extras)
 
-This folder contains pre-configured files and load-order guidance for running **Brutal Pack** with add-ons for *GZDoom*.
+This folder contains pre-configured files and load-order guidance for running **Brutal Pack** with my personally recommended add-ons for *GZDoom*.
 
 ---
 
