@@ -49,6 +49,11 @@ This challenge is designed for players who want the maximum Brutal Pack + Behold
 > Be sure to **load the files in the following order** (top → bottom) when launching GZDoom.  
 > Using this order ensures all mods load correctly and maintain compatibility.
 
+### 0) **Map / Map Campaign First**
+> Unless base (Doom1/2/Freedom.wad only), always load custom map or campaign first!  
+
+---
+
 ### 1) **BRUTALPACK 10.4.pk3**  
 > Core gameplay overhaul (base mod). Adds advanced AI, gore, and shoulder weapons.  
  [ModDB](https://www.moddb.com/addons/brutal-pack1)
