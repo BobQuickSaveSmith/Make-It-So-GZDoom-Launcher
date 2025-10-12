@@ -31,7 +31,7 @@ This challenge is designed for players who want the full Brutal Pack + Behold! �
    
    This enables the **Nightmare and higher difficulties** to fully activate the **Behold! – BP** spawning and resurrection systems.  
    
-   *You’re not cheating — you’re resurrecting or unleashing Crowd Control Unlimited, and paying the demonic toll.*
+   *You’re not cheating: you’re resurrecting or unleashing Crowd Control Unlimited, and paying the demonic toll.*
 
 3) Play your favorite map or campaign in **Extreme Nightmare.**
 
