@@ -19,7 +19,7 @@ Extract this ZIP directly into your GZDoom mods folder or into a custom director
 
 ## The Hell Run Protocol
 
-This challenge is designed for players who want the maximum Brutal Pack + Behold! – BP experience — fast, punishing, and relentlessly fun. It transforms standard Brutal Pack gameplay into a continuous endurance run of resurrection and escalation, with no reloading necessary.
+This challenge is designed for players who want the maximum Brutal Pack + Behold! – BP experience — fast, punishing, and relentlessly fun. It transforms standard GZDoom + Brutal Pack gameplay into a continuous endurance run of resurrection and escalation, with no reloading necessary.
 
 ### To Activate:
 
