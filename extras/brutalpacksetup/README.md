@@ -10,7 +10,7 @@ Details are provided below for load order, sources, and to give various creators
 
 ## Quick Download
 
-[Click here to download the full package (brutalpack_and_extras_quick_install.zip)](https://github.com/BobQuickSaveSmith/Make-It-So-GZDoom-Launcher/raw/main/extras/brutalpacksetup/brutalpack_and_extras_quick_install.zip)
+[Click here to download the full package (brutalpack_and_extras_quick_install.zip](https://github.com/BobQuickSaveSmith/Make-It-So-GZDoom-Launcher/raw/main/extras/brutalpacksetup/brutalpack_and_extras_quick_install.zip)
 *(Approximate size: varies by mod updates)*  
 
 Extract this ZIP directly into your GZDoom mods folder or into a custom directory used by your launcher.
