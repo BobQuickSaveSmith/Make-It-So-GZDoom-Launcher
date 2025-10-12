@@ -24,8 +24,9 @@ This README has 4 sections:
 2) MONSTER LIST — the exact spawn pool used in BP Edition
 3) MODDER GUIDE — where things live in DECORATE (quick map)
 4) ADVANCED CUSTOMIZATION — change default message style, Earthquake (camera+SFX) preset, and spawn mode
-5) BRUTAL PACK — summonable monster reference 
-6) Credits 
+5) TIPS & TROUBLESHOOTING
+6) BRUTAL PACK — summonable monster reference
+7) Credits 
 
 ────────────────────────────────────
 1) PLAYER GUIDE — SURVIVE. FIGHT. UNLEASH HELL.
@@ -220,7 +221,17 @@ D) Packaging quick‑ref
 - SLADE can open/save PK3 directly
 
 ────────────────────────────────────
-5 BRUTAL PACK — SUMMONABLE MONSTER REFERENCE
+5) TIPS & TROUBLESHOOTING
+────────────────────────────────────
+
+If you’re running Nightmare or higher difficulty, add this line to your GZDoom launch options:
+
++sv_cheats 1
+
+You’re not cheating! You’re resurrecting or unleashing Crowd Control Unlimited, and paying the demonic toll.
+
+────────────────────────────────────
+6) BRUTAL PACK — SUMMONABLE MONSTER REFERENCE
 ────────────────────────────────────
 
 # BrutalPack Summonable Entities — Categorized Reference List
@@ -231,7 +242,7 @@ Controversial entities are marked accordingly.
 
 ---
 
-## 😈 Demons (Pinky Family)
+## Demons (Pinky Family)
 - `summon demon` — Standard Pinky Demon  
 - `summon bulldemon` — Synonym for Pinky  
 - `summon brutalstealthdemon` — Invisible unless attacking  
@@ -242,20 +253,20 @@ Controversial entities are marked accordingly.
 - `summon poorpinkylosthisarm` — Dying, immobile Pinky  
 - `summon vanillaspectre` — Vanilla-style spectre  
 
-## 💀 Revenants & Skulls
+## Revenants & Skulls
 - `summon revenant` — Missile skeleton  
 - `summon brutalstealthrevenant` — Invisible powerhouse  
 - `summon lostsoul` — Flying flame skull  
 - `summon chexsoul` — Tougher skull  
 - `summon betaskull` — Fast stare-damage skull  
 
-## 🧠 Floaters (Cacos, Pain Elementals)
+## Floaters (Cacos, Pain Elementals)
 - `summon cacodemon` — Red floaty ball  
 - `summon stealthcacodemon` — Sneaky bitey floatball  
 - `summon brutalstealthcacodemon` — Stealth juggernaut  
 - `summon painelemental` — Spawns lost souls  
 
-## 🦍 Hell Nobility (Knights & Barons)
+## Hell Nobility (Knights & Barons)
 - `summon hellknight` — Green brute  
 - `summon hellknight2` — Synonym  
 - `summon vanillahellknight` — Standard 40-damage variant  
@@ -265,58 +276,58 @@ Controversial entities are marked accordingly.
 - `summon brutalstealthbaron` — Red, invisible baron  
 - `summon flembrane` — Stationary baron gunner  
 
-## 🐽 Fat Demons
+## Fat Demons
 - `summon mancubus` — Close-range flamethrower  
 - `summon vanillafatso` — Standard  
 - `summon brutalstealthfatso` — Invisible, heavy  
 
-## 🔥 Archviles
+## Archviles
 - `summon archvile` — Resurrector & fire summoner  
 - `summon teharchvile` — Meme version  
 - `summon brutalstealtharchvile` — High-risk invisible threat  
 
-## 🕷 Tech Demons
+## Tech Demons
 - `summon arachnotron` — Plasma spiderbot  
 - `summon stealtharachnotron` — Cloaked version  
 - `summon brutalstealtharachnotron` — Twin spawn chance  
 
-## 🧠 Bosses
+## Bosses
 - `summon spidermastermind` — Chaingun boss  
 - `summon cyberdemon` — Classic rocket titan  
 - `summon cyberdemonboss` — Enhanced cyberdemon  
 
-## 🧪 Joke / Throwable
+## Joke / Throwable
 - `summon throwedimp` — Projectile imp (not fightable)  
 - `summon throwedimp2` — Same  
 
-## 👤 Humanoid Enemies
+## Humanoid Enemies
 - `summon chaingunguy` — Heavy gunner  
 - `summon zombieman` — Weak green soldier  
 - `summon shotgunguy` — Shotgun grunt  
 - `summon marinechainsaw` — Close-range slicer  
 
-## 🚫 Controversial / Historical (Not recommended for spawn pools)
-- `summon nazi` — Nazi soldier ⚠️  
-- `summon nazisurrendered` — Begging Nazi ⚠️  
-- `summon germandog` — Nazi dog ⚠️  
-- `summon wolfensteinss` — Hitler’s dad ⚠️  
-- `summon commanderkeen` — Hanged dog (shock) ⚠️  
-- `summon panzertank` — Nazi tank ⚠️  
-- `summon zombieseizedtank` — Seized Nazi tank ⚠️  
+## Controversial / Historical
+- `summon nazi` — Nazi soldier 
+- `summon nazisurrendered` — Begging Nazi 
+- `summon germandog` — Nazi dog 
+- `summon wolfensteinss` — Hitler’s dad 
+- `summon commanderkeen` — Hanged dog (shock)  
+- `summon panzertank` — Nazi tank 
+- `summon zombieseizedtank` — Seized Nazi tank  
 
-## 👽 Flemoid Aliens
+## Flemoid Aliens
 - `summon flemoid3` — Acid alien  
 - `summon armoredflemoidusbipedicus` — Bigger alien  
 - `summon flemoid1` — Small variant alien  
 - `summon flemoid2` — Mid-tier alien  
 
-## 🌑 Special / Dark Entities
+## Special / Dark Entities
 - `summon voiddarkimp` — Shadowy imp, dark-themed  
 - `summon quadrumpus` — Acid-spitting 4-legged alien  
 
 ---
 
-## 💡 Just for Fun Entities (not fightable or joke-only)
+## Just for Fun Entities (not fightable or joke-only)
 These were detected from the BrutalPack deep scan but may be aesthetic, broken, or unspawnable:
 - `summon slugplasma`
 - `summon skullonapole`
@@ -331,12 +342,13 @@ These were detected from the BrutalPack deep scan but may be aesthetic, broken, 
 ---
 
 ## Notes
-- ✅ All entities have been tested and confirmed summonable unless marked
-- ❌ Some entries (like `throwedimp`) are not interactive enemies
-- ⚠️ Controversial entries are included for reference only
+- All entities have been tested and confirmed summonable unless marked
+- Some entries (like `throwedimp`) are not interactive enemies
+- Controversial entries are included for reference only
+
 
 ────────────────────────────────────
-6) Credits
+7) Credits
 ────────────────────────────────────
 
 BEHOLD! — BP by BobQuickSaveSmith
