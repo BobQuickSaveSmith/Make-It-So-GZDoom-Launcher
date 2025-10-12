@@ -3,7 +3,7 @@ This is what I install for nearly every map/campaign, etc:
 # Example GZDoom Load Order
 # Load order is top → bottom.
 
-00. Map / Map Campaign First
+00. Custom Map / Map Campaign First
     > Unless base (Doom1/2/Freedom.wad only), always load custom map or campaign first!  
 
 01. BRUTALPACK 10.4.pk3

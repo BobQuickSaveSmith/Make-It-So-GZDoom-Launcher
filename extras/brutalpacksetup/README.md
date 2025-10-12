@@ -49,7 +49,7 @@ This challenge is designed for players who want the maximum Brutal Pack + Behold
 > Be sure to **load the files in the following order** (top → bottom) when launching GZDoom.  
 > Using this order ensures all mods load correctly and maintain compatibility.
 
-### 0) **Map / Map Campaign First**
+### 0) **Custom Map / Map Campaign First**
 > Unless base (Doom1/2/Freedom.wad only), always load custom map or campaign first!  
 
 ---
