@@ -137,9 +137,8 @@ This challenge is designed for players who want the full Brutal Pack + Behold! â
 
 1. **Download** the full ZIP above.  
 2. **Extract** it into your GZDoom mods folder (or a preferred directory).  
-3. **Load the mods in the order shown above.**  
-4. Optional: use the [**Make-It-So GZDoom Launcher**](https://github.com/BobQuickSaveSmith/Make-It-So-GZDoom-Launcher) for easy load-order management.
-
+3. **Load the Brutal Pack and add-ons in the order shown above.**  
+4.  **Fight!**
 ---
 
 _Last updated 2025-10-11_
