@@ -19,7 +19,7 @@ Extract this ZIP directly into your GZDoom mods folder or into a custom director
 
 ## The Hell Run Protocol
 
-This setup is designed for players who want the **full Brutal Pack + Behold! – BP experience** — fast, punishing, and relentlessly dynamic.  
+This challenge is designed for players who want the **full Brutal Pack + Behold! – BP experience** — fast, punishing, and relentlessly dynamic.  
 It transforms standard Brutal Pack gameplay into a continuous endurance run of resurrection and escalation, with no reloads or rest.
 
 ### To Activate:
@@ -27,16 +27,19 @@ It transforms standard Brutal Pack gameplay into a continuous endurance run of r
 1) **Load Brutal Pack and all provided add-ons** in their proper order (see load order below).
 
 2) **Run GZDoom with:**
-   +sv_cheats 1
+
+   *+sv_cheats 1*
+   
    This enables the **Nightmare and higher difficulties** to fully activate the **Behold! – BP** spawning and resurrection systems.  
+   
    *You’re not cheating — you’re resurrecting or unleashing Crowd Control Unlimited, and paying the demonic toll.*
 
-3) **Play your favorite map or campaign** in **Extreme Nightmare.**
+3) Play your favorite map or campaign in **Extreme Nightmare.**
 
 4) **Do not save or load**; when you die, **resurrect** instead.  
    Use **Crowd Control Unlimited** freely, but beware: every use invites **hellish consequences** and escalating enemy spawns.
 
-*The Hell Run Protocol is the ultimate test of survival: no reloads, no rest, only the endless rhythm of resurrection and ruin.*
+*The Hell Run Protocol can be extremely fun and intense: no interruptions, no backtracking, only the endless rhythm of resurrection and fighting.*
 
 **Note:** Keep **Autoautosave** enabled to preserve progress when exiting or if a crash occurs. It won’t interfere with the challenge.
 
