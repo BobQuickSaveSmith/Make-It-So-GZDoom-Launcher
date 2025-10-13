@@ -38,7 +38,7 @@ This challenge is designed for players who want the maximum Brutal Pack + Behold
 
    If you have additional map suggestions that should be listed, please contact me at [makeitsoapp@proton.me](mailto:makeitsoapp@proton.me).
 
-1) **[Load Brutal Pack and all provided add-ons](https://github.com/BobQuickSaveSmith/Make-It-So-GZDoom-Launcher/raw/main/extras/brutalpacksetup/brutalpack_and_extras_quick_install.zip)** in their proper order. [Jump to Load Order](#load-order-top--bottom)
+1) **[Load Brutal Pack and all provided add-ons](https://github.com/BobQuickSaveSmith/Make-It-So-GZDoom-Launcher/raw/main/extras/brutalpacksetup/brutalpack_and_extras_quick_install.zip)** in their [Load Order (Top → Bottom)](#load-order-top--bottom).
 
 2) **Run GZDoom with:**
 
