@@ -33,10 +33,10 @@ This challenge is designed for players who want the maximum Brutal Pack + Behold
 
 0) **Maps Worth Trying:**
 
-a) [Hell Unearthed - 6 DOOM 2 Limit Removing Maps by LerxstInWonderland](https://www.doomworld.com/forum/topic/128245-hell-unearthed-6-doom-2-limit-removing-maps/?tab=comments#comment-2472772)  
-b) [Entangled - A single level for DOOM 2 (limit removing) by LerxstInWonderland](https://www.doomworld.com/forum/topic/151288-entangled-a-single-level-for-doom-2-limit-removing/?tab=comments#comment-2901952)
+   a) [Hell Unearthed - 6 DOOM 2 Limit Removing Maps by LerxstInWonderland](https://www.doomworld.com/forum/topic/128245-hell-unearthed-6-doom-2-limit-removing-maps/?tab=comments#comment-2472772)  
+   b) [Entangled - A single level for DOOM 2 (limit removing) by LerxstInWonderland](https://www.doomworld.com/forum/topic/151288-entangled-a-single-level-for-doom-2-limit-removing/?tab=comments#comment-2901952)
 
-If you have additional map suggestions that should be listed, please contact me at [makeitsoapp@proton.me](mailto:makeitsoapp@proton.me).
+   If you have additional map suggestions that should be listed, please contact me at [makeitsoapp@proton.me](mailto:makeitsoapp@proton.me).
 
 1) **Load Brutal Pack and all provided add-ons** in their proper order. [Jump to Load Order](#load-order-top--bottom)
 
