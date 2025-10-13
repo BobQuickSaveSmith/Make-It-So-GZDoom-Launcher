@@ -31,14 +31,16 @@ This challenge is designed for players who want the maximum Brutal Pack + Behold
 
 ### To Activate:
 
-0) **Maps Worth Trying:**
+0) **(If using custom maps) Load them first.**  
+   *Before anything else, load your chosen map or campaign above all mod and add-on files.*
 
-   a) [Hell Unearthed - 6 DOOM 2 Limit Removing Maps by LerxstInWonderland](https://www.doomworld.com/forum/topic/128245-hell-unearthed-6-doom-2-limit-removing-maps/?tab=comments#comment-2472772)  
-   b) [Entangled - A single level for DOOM 2 (limit removing) by LerxstInWonderland](https://www.doomworld.com/forum/topic/151288-entangled-a-single-level-for-doom-2-limit-removing/?tab=comments#comment-2901952)
+   Recommended examples:  
+   a) [Hell Unearthed – 6 DOOM 2 Limit Removing Maps by LerxstInWonderland](https://www.doomworld.com/forum/topic/128245-hell-unearthed-6-doom-2-limit-removing-maps/?tab=comments#comment-2472772)  
+   b) [Entangled – A single level for DOOM 2 (limit removing) by LerxstInWonderland](https://www.doomworld.com/forum/topic/151288-entangled-a-single-level-for-doom-2-limit-removing/?tab=comments#comment-2901952)
 
    If you have additional map suggestions that should be listed, please contact me at [makeitsoapp@proton.me](mailto:makeitsoapp@proton.me).
 
-1) **[Load Brutal Pack and all provided add-ons](https://github.com/BobQuickSaveSmith/Make-It-So-GZDoom-Launcher/raw/main/extras/brutalpacksetup/brutalpack_and_extras_quick_install.zip)** in their [Load Order (Top → Bottom)](#load-order-top--bottom).
+1) **[Load Brutal Pack and all provided add-ons](https://github.com/BobQuickSaveSmith/Make-It-So-GZDoom-Launcher/raw/main/extras/brutalpacksetup/brutalpack_and_extras_quick_install.zip)** in their proper order. [Jump to Load Order](#load-order-top--bottom)
 
 2) **Run GZDoom with:**
 
