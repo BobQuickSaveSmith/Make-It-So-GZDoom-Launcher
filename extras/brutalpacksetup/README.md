@@ -57,7 +57,9 @@ This challenge is designed for players who want the maximum Brutal Pack + Behold
 
 *The Hell Run Protocol can be extremely fun and intense: no interruptions, no backtracking, only the endless rhythm of resurrection and fighting.*
 
-**Note:** Keep **Autoautosave** enabled to preserve progress when exiting or if a crash occurs. It won’t interfere with the challenge.
+**Note:** Keep **Autoautosave** enabled to preserve progress when exiting or in case of a crash.  
+If you fall to your death, such as into lava, resurrecting will only place you back in the same spot repeatedly.  
+It will not interfere with the challenge. I recommend setting it to keep a maximum of 20 autosaves.
 
 **FPS Gain Tip:**  If your FPS drops during heavy fights, experiment with the *vid_scalefactor* setting.  
 A value of **1** is default, **0.5** halves the resolution, **0.3** lowers it further, and so on.  
