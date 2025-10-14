@@ -59,8 +59,7 @@ This challenge is designed for players who want the maximum Brutal Pack + Behold
 
 **Note:** Keep **Autoautosave** enabled to preserve progress when exiting or if a crash occurs. It won’t interfere with the challenge.
 
-**FPS Gain Tip!**  
-If your FPS drops during heavy fights, experiment with the *vid_scalefactor* setting.  
+**FPS Gain Tip:**  If your FPS drops during heavy fights, experiment with the *vid_scalefactor* setting.  
 A value of **1** is default, **0.5** halves the resolution, **0.3** lowers it further, and so on.  
 You can also set it when launching the game, for example:  `+set vid_scalefactor .5`
 
