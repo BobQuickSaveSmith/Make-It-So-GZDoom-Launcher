@@ -25,18 +25,15 @@ Extract this ZIP directly into your GZDoom mods folder or into a custom director
 
 ---
 
-## The Hell Run Protocol
-
-This challenge is designed for players who want the maximum Brutal Pack + Behold! – BP experience — fast, punishing, and relentlessly fun. It transforms standard GZDoom + Brutal Pack gameplay into a continuous endurance run of resurrection and escalation, with no reloading necessary.
-
 ### To Activate:
 
 0) **(If using custom maps) Load them first.**  
    *Before anything else, load your chosen map or campaign above all mod and add-on files.*
 
-   Recommended examples:  
+   Recommended examples:
+
    a) [Hell Unearthed – 6 DOOM 2 Limit Removing Maps by LerxstInWonderland](https://www.doomworld.com/forum/topic/128245-hell-unearthed-6-doom-2-limit-removing-maps/)  
-   b) [None Like It Hot! - A single vanilla DOOM 2 by LerxstInWonderland](https://www.doomworld.com/forum/topic/143312-none-like-it-hot-a-single-vanilla-doom-2-map/)
+   b) [None Like It Hot! – A single vanilla DOOM 2 by LerxstInWonderland](https://www.doomworld.com/forum/topic/143312-none-like-it-hot-a-single-vanilla-doom-2-map/)  
    c) [Entangled – A single level for DOOM 2 (limit removing) by LerxstInWonderland](https://www.doomworld.com/forum/topic/151288-entangled-a-single-level-for-doom-2-limit-removing/)
 
    If you have additional map suggestions that should be listed, please contact me at [makeitsoapp@proton.me](mailto:makeitsoapp@proton.me).
