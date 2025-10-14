@@ -35,8 +35,9 @@ This challenge is designed for players who want the maximum Brutal Pack + Behold
    *Before anything else, load your chosen map or campaign above all mod and add-on files.*
 
    Recommended examples:  
-   a) [Hell Unearthed – 6 DOOM 2 Limit Removing Maps by LerxstInWonderland](https://www.doomworld.com/forum/topic/128245-hell-unearthed-6-doom-2-limit-removing-maps/?tab=comments#comment-2472772)  
-   b) [Entangled – A single level for DOOM 2 (limit removing) by LerxstInWonderland](https://www.doomworld.com/forum/topic/151288-entangled-a-single-level-for-doom-2-limit-removing/?tab=comments#comment-2901952)
+   a) [Hell Unearthed – 6 DOOM 2 Limit Removing Maps by LerxstInWonderland](https://www.doomworld.com/forum/topic/128245-hell-unearthed-6-doom-2-limit-removing-maps/)  
+   b) [None Like It Hot! - A single vanilla DOOM 2 by LerxstInWonderland] map]https://www.doomworld.com/forum/topic/143312-none-like-it-hot-a-single-vanilla-doom-2-map/
+   c) [Entangled – A single level for DOOM 2 (limit removing) by LerxstInWonderland](https://www.doomworld.com/forum/topic/151288-entangled-a-single-level-for-doom-2-limit-removing/)
 
    If you have additional map suggestions that should be listed, please contact me at [makeitsoapp@proton.me](mailto:makeitsoapp@proton.me).
 
