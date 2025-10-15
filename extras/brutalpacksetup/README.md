@@ -40,8 +40,7 @@ Extract this ZIP directly into your GZDoom mods folder or into a custom director
    
 ---
 
-1a) **[Load Brutal Pack and all provided add-ons](https://github.com/BobQuickSaveSmith/Make-It-So-GZDoom-Launcher/raw/main/extras/brutalpacksetup/brutalpack_and_extras_quick_install.zip)** in their proper order.  
-   ➤ [Jump to Load Order](#load-order-top--bottom)
+1a) **[Load Brutal Pack and all provided add-ons](https://github.com/BobQuickSaveSmith/Make-It-So-GZDoom-Launcher/raw/main/extras/brutalpacksetup/brutalpack_and_extras_quick_install.zip)** in their proper order. ➤ [Jump to Load Order](#load-order-top--bottom)
 
 **OR**
 
