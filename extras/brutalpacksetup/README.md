@@ -38,13 +38,17 @@ Extract this ZIP directly into your GZDoom mods folder or into a custom director
 
    If you have additional map suggestions that should be listed, please contact me at [makeitsoapp@proton.me](mailto:makeitsoapp@proton.me).
 
-1) **[Load Brutal Pack and all provided add-ons](https://github.com/BobQuickSaveSmith/Make-It-So-GZDoom-Launcher/raw/main/extras/brutalpacksetup/brutalpack_and_extras_quick_install.zip)** in their proper order. [Jump to Load Order](#load-order-top--bottom)
+1 a) **[Load Brutal Pack and all provided add-ons](https://github.com/BobQuickSaveSmith/Make-It-So-GZDoom-Launcher/raw/main/extras/brutalpacksetup/brutalpack_and_extras_quick_install.zip)** in their proper order. [Jump to Load Order](#load-order-top--bottom)
+
+    Or 
+
+1 b) Install **[Behold! - Version 3 Resurrection Add-On for GZDoom](https://www.moddb.com/games/doom/downloads/behold-version-3-resurrection-add-on-for-gzdoom)** in any base or mod configuration.
 
 2) **Run GZDoom with:**
 
    *+sv_cheats 1*
    
-   This enables the **Nightmare and higher difficulties** to fully activate the **Behold! – BP** spawning and resurrection systems.  
+   This enables the **Nightmare and higher difficulties** to fully activate the **Behold!** or **Behold! – BP** spawning and resurrection systems.  
    
    *You’re not cheating — you’re resurrecting or unleashing Crowd Control Unlimited, and paying the demonic toll.*
 
