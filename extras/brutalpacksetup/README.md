@@ -37,12 +37,17 @@ Extract this ZIP directly into your GZDoom mods folder or into a custom director
    c) [Entangled – A single level for DOOM 2 (limit removing) by LerxstInWonderland](https://www.doomworld.com/forum/topic/151288-entangled-a-single-level-for-doom-2-limit-removing/)
 
    If you have additional map suggestions that should be listed, please contact me at [makeitsoapp@proton.me](mailto:makeitsoapp@proton.me).
+   
+---
 
-1 a) **[Load Brutal Pack and all provided add-ons](https://github.com/BobQuickSaveSmith/Make-It-So-GZDoom-Launcher/raw/main/extras/brutalpacksetup/brutalpack_and_extras_quick_install.zip)** in their proper order. [Jump to Load Order](#load-order-top--bottom)
+1a) **[Load Brutal Pack and all provided add-ons](https://github.com/BobQuickSaveSmith/Make-It-So-GZDoom-Launcher/raw/main/extras/brutalpacksetup/brutalpack_and_extras_quick_install.zip)** in their proper order.  
+   ➤ [Jump to Load Order](#load-order-top--bottom)
 
-    Or 
+**OR**
 
-1 b) Install **[Behold! - Version 3 Resurrection Add-On for GZDoom](https://www.moddb.com/games/doom/downloads/behold-version-3-resurrection-add-on-for-gzdoom)** in any base or mod configuration.
+1b) Install **[Behold! – Version 3 Resurrection Add-On for GZDoom](https://www.moddb.com/games/doom/downloads/behold-version-3-resurrection-add-on-for-gzdoom)** in any base or mod configuration.
+
+---
 
 2) **Run GZDoom with:**
 
@@ -51,8 +56,12 @@ Extract this ZIP directly into your GZDoom mods folder or into a custom director
    This enables the **Nightmare and higher difficulties** to fully activate the **Behold!** or **Behold! – BP** spawning and resurrection systems.  
    
    *You’re not cheating — you’re resurrecting or unleashing Crowd Control Unlimited, and paying the demonic toll.*
+   
+---
 
 3) Play your favorite map or campaign in **Extreme Nightmare.**
+
+---
 
 4) **Do not save or load**; when you die, **resurrect** instead.  
    Use **Crowd Control Unlimited** freely, but beware: every use invites **hellish consequences** and escalating enemy spawns.
