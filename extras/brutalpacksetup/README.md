@@ -1,6 +1,5 @@
 
 ## Quick Navigation
-- [Quick Download](#quick-download)
 - [The Hell Run Protocol](#the-hell-run-protocol)
 - [How To Activate](#how-to-activate)
 - [Load Order (Top → Bottom)](#load-order-top--bottom)
