@@ -19,7 +19,7 @@ A continuous endurance run that removes the habit of save scumming. You fight fo
 **Requirements**
 - Load a map or campaign first if you are using one.  
 - Use either setup:  
-  - Brutal Pack + add-ons (see Load Order)  
+  - Brutal Pack + Behold-BP + add-ons (see Load Order)  
   - Behold! V3 on any base or mod configuration
 - Launch with `+sv_cheats 1` so Nightmare and higher fully enable Behold or Behold BP systems.
 
