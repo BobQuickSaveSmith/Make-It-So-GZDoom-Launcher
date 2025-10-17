@@ -1,31 +1,51 @@
-# Brutal Pack Setup
-
-This zip file contains a complete, pre-configured setup for running **Brutal Pack** with my recommended add-ons for *GZDoom*.  
-
-It includes all core files in one download for convenience.
-
-Details are provided below for load order, sources, and to give various creators credit.
-
----
 
 ## Quick Navigation
-- [Quick Download](#quick-download)
 - [The Hell Run Protocol](#the-hell-run-protocol)
+  [Load Order (How To Activate)](#load-order-top--bottom)
 - [Load Order (Top → Bottom)](#load-order-top--bottom)
 - [Quick Start](#quick-start)
 
 ---
 
-## Quick Download
+## The Hell Run Protocol
 
-[Click here to download the full package (brutalpack_and_extras_quick_install.zip)](https://github.com/BobQuickSaveSmith/Make-It-So-GZDoom-Launcher/raw/main/extras/brutalpacksetup/brutalpack_and_extras_quick_install.zip)
-*(Approximate size: varies by mod updates)*  
+**What it is:**  
+A continuous endurance run that removes the habit of save scumming. You fight forward without reloading saves. Resurrection and crowd control mechanics keep the pressure high but fair.
 
-Extract this ZIP directly into your GZDoom mods folder or into a custom directory used by your launcher.
+**Why it works:**  
+- Death is part of the loop. Resurrection spawns create fresh encounters that feel earned.  
+- Difficulty scales with your settings. Higher tiers increase spawn intensity and variety.  
+- Progress feels real because you are not rewinding.
+
+**Requirements**
+- Load a map or campaign first if you are using one.  
+- Use either setup:  
+  - Brutal Pack + add-ons (see Load Order)  
+  - Behold! V3 on any base or mod configuration
+- Launch with `+sv_cheats 1` so Nightmare and higher fully enable Behold or Behold BP systems.
+
+**Recommended start**
+- Difficulty: Nightmare or higher if you want maximum escalation.  
+- Brutal Pack users: enable your preferred gameplay options, then add Behold BP.  
+- Base or other mods: add Behold V3 to inject resurrection and crowd control.
+
+**Run rules**
+1. Do not reload a save to undo mistakes, unless dying in lava, etc.
+2. If you die, use your resurrection and keep fighting.  
+
+**Tips**
+- Start with a short map to learn the rhythm.  
+- Use the arena you create. Backtracking can be tactical.  
+- Expect surges after resurrection and plan ammo accordingly.
+
+**FPS Gain Tip**  
+If your FPS tanks during big fights, experiment with `vid_scalefactor`.  
+Default is `1`. Try `0.3` or `0.5`.  
+You can set it on launch: `+set vid_scalefactor 0.5`.
 
 ---
 
-### To Activate:
+### How To Activate:
 
 0) **(If using custom maps) Load them first.**  
    *Before anything else, load your chosen map or campaign above all mod and add-on files.*
@@ -41,6 +61,15 @@ Extract this ZIP directly into your GZDoom mods folder or into a custom director
 ---
 
 1a) **[Load Brutal Pack and all provided add-ons](https://github.com/BobQuickSaveSmith/Make-It-So-GZDoom-Launcher/raw/main/extras/brutalpacksetup/brutalpack_and_extras_quick_install.zip)** in their proper order. ➤ [Jump to Load Order](#load-order-top--bottom)
+
+This zip file contains a complete, pre-configured setup for running **Brutal Pack** with my recommended add-ons for *GZDoom*.  
+
+It includes all core files in one download for convenience.
+
+Details are provided below for load order, sources, and to give various creators credit.
+
+Extract this ZIP directly into your GZDoom mods folder or into a custom directory used by your launcher.
+
 
 **OR**
 
@@ -58,7 +87,7 @@ Extract this ZIP directly into your GZDoom mods folder or into a custom director
    
 ---
 
-3) Play your favorite map or campaign in **Extreme Nightmare.**
+3) Play your favorite map or campaign in **Nightmare** or **Extreme Nightmare.**
 
 ---
 
@@ -70,10 +99,6 @@ Extract this ZIP directly into your GZDoom mods folder or into a custom director
 **Note:** Keep **Autoautosave** enabled to preserve progress when exiting or in case of a crash.  
 If you fall to your death, such as into lava, resurrecting will only place you back in the same spot repeatedly.  
 It will not interfere with the challenge. I recommend setting it to keep a maximum of 20 autosaves.
-
-**FPS Gain Tip:**  If your FPS drops during heavy fights, experiment with the *vid_scalefactor* setting.  
-A value of **1** is default, **0.5** halves the resolution, **0.3** lowers it further, and so on.  
-You can also set it when launching the game, for example:  `+set vid_scalefactor .5`
 
 ---
 
@@ -168,15 +193,6 @@ You can also set it when launching the game, for example:  `+set vid_scalefactor
 ### 14) **HXRTCHUD_BP_V10.4a_v2.pk3**  
 > Alternate HUD layout tuned for Brutal Pack 10.4.  
 [Discord](https://discord.gg/GczEEGda) → `#brutal-pack-adons` (Pinned Messages)  
-
----
-
-## Quick Start
-
-1. **Download** the full ZIP above.  
-2. **Extract** it into your GZDoom mods folder (or a preferred directory).  
-3. **Load the Brutal Pack and add-ons in the order shown above.**  
-4. **Fight!**
 
 ---
 
