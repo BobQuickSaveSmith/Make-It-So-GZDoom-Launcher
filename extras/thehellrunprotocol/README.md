@@ -44,7 +44,7 @@ You can set it on launch: `+set vid_scalefactor 0.5`.
 0) **(If using custom maps) Load them first.**  
    *Before anything else, load your chosen map or campaign above all mod and add-on files.*
 
-   Recommended examples:
+   Suggested maps:
 
    a) [Hell Unearthed – 6 DOOM 2 Limit Removing Maps by LerxstInWonderland](https://www.doomworld.com/forum/topic/128245-hell-unearthed-6-doom-2-limit-removing-maps/)  
    b) [None Like It Hot! – A single vanilla DOOM 2 by LerxstInWonderland](https://www.doomworld.com/forum/topic/143312-none-like-it-hot-a-single-vanilla-doom-2-map/)  
