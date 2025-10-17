@@ -21,21 +21,16 @@ A continuous endurance run that removes the habit of save scumming. You fight fo
 - Use either setup:  
   - Brutal Pack + Behold-BP + add-ons (see Load Order)  
   - Behold! V3 on any base or mod configuration
-- Launch with `+sv_cheats 1` so Nightmare and higher fully enable Behold or Behold BP systems.
+- Launch with `+sv_cheats 1` so Nightmare and higher fully enable Behold! or Behold! - BP systems.
 
 **Recommended start**
 - Difficulty: Nightmare or higher if you want maximum escalation.  
-- Brutal Pack users: enable your preferred gameplay options, then add Behold BP.  
-- Base or other mods: add Behold V3 to inject resurrection and crowd control.
+- Brutal Pack users: enable your preferred gameplay options, and add Behold! - BP.  
+- Base or other mods: add Behold! V3 to inject resurrection and crowd control.
 
 **Run rules**
 1. Do not reload a save to undo mistakes, unless dying in lava, etc.
 2. If you die, use your resurrection and keep fighting.  
-
-**Tips**
-- Start with a short map to learn the rhythm.  
-- Use the arena you create. Backtracking can be tactical.  
-- Expect surges after resurrection and plan ammo accordingly.
 
 **FPS Gain Tip**  
 If your FPS tanks during big fights, experiment with `vid_scalefactor`.  
@@ -91,7 +86,7 @@ Extract this ZIP directly into your GZDoom mods folder or into a custom director
 ---
 
 4) **Do not save or load**; when you die, **resurrect** instead.  
-   Use **Crowd Control Unlimited** freely, but beware: every use invites **hellish consequences** and escalating enemy spawns.
+   Use **Crowd Control Unlimited** (for Behold! -BP) or **Crowd Control** (Behold! V3) freely, but beware: every use invites **hellish consequences** and escalating enemy spawns.
 
 *The Hell Run Protocol can be extremely fun and intense: no interruptions, no backtracking, only the endless rhythm of resurrection and fighting.*
 
