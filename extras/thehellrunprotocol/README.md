@@ -54,7 +54,7 @@ You can set it on launch: `+set vid_scalefactor 0.5`.
    
 ---
 
-1a) **[Load Brutal Pack and all provided add-ons](https://github.com/BobQuickSaveSmith/Make-It-So-GZDoom-Launcher/raw/main/extras/brutalpacksetup/brutalpack_and_extras_quick_install.zip)** in their proper order. ➤ [Jump to Load Order](#load-order-top--bottom)
+1a) **[Load Brutal Pack and all provided add-ons](https://github.com/BobQuickSaveSmith/Make-It-So-GZDoom-Launcher/raw/main/extras/thehellrunprotocol/brutalpack_and_extras_quick_install.zip)** in their proper order. ➤ [Jump to Load Order](#load-order-top--bottom)
 
 This zip file contains a complete, pre-configured setup for running **Brutal Pack** with my recommended add-ons for *GZDoom*.  
 
