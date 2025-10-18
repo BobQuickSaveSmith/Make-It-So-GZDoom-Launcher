@@ -50,7 +50,7 @@ You can set it on launch: `+set vid_scalefactor 0.5`.
    b) [None Like It Hot! – A single vanilla DOOM 2 by LerxstInWonderland](https://www.doomworld.com/forum/topic/143312-none-like-it-hot-a-single-vanilla-doom-2-map/)  
    c) [Entangled – A single level for DOOM 2 (limit removing) by LerxstInWonderland](https://www.doomworld.com/forum/topic/151288-entangled-a-single-level-for-doom-2-limit-removing/)  
    d) [DOOM 404 - complevel 2 megawad](https://www.doomworld.com/forum/topic/102536-doom-404-complevel-2-megawad-now-on-idgames/)  
-   e) [DOOM 2: REMAKE for GZDoom, with OTEX (30+1 maps)]https://www.doomworld.com/forum/topic/155604-doom-2-remake-for-gzdoom-with-otex-301-maps/?tab=comments#comment-2975600  
+   e) [DOOM 2: REMAKE for GZDoom, with OTEX (30+1 maps](https://www.doomworld.com/forum/topic/155604-doom-2-remake-for-gzdoom-with-otex-301-maps/?tab=comments#comment-2975600)
 
    If you have additional map suggestions that should be listed, please contact me at [makeitsoapp@proton.me](mailto:makeitsoapp@proton.me).
    
