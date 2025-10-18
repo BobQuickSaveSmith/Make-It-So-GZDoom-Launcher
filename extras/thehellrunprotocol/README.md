@@ -2,7 +2,7 @@
 ## Quick Navigation
 - [The Hell Run Protocol](#the-hell-run-protocol)
 - [How To Activate](#how-to-activate)
-- [Load Order (Top → Bottom)](#load-order-top--bottom)
+- [Brutal Pack Load Order (Top → Bottom)](#brutal-pack-load-order-top--bottom)
 
 ---
 
@@ -46,11 +46,12 @@ You can set it on launch: `+set vid_scalefactor 0.5`.
 
    Suggested maps:
 
-   a) [Hell Unearthed – 6 DOOM 2 Limit Removing Maps by LerxstInWonderland](https://www.doomworld.com/forum/topic/128245-hell-unearthed-6-doom-2-limit-removing-maps/)  
-   b) [None Like It Hot! – A single vanilla DOOM 2 by LerxstInWonderland](https://www.doomworld.com/forum/topic/143312-none-like-it-hot-a-single-vanilla-doom-2-map/)  
-   c) [Entangled – A single level for DOOM 2 (limit removing) by LerxstInWonderland](https://www.doomworld.com/forum/topic/151288-entangled-a-single-level-for-doom-2-limit-removing/)  
-   d) [DOOM 404 - complevel 2 megawad](https://www.doomworld.com/forum/topic/102536-doom-404-complevel-2-megawad-now-on-idgames/)  
-   e) [DOOM 2: REMAKE for GZDoom, with OTEX (30+1) maps](https://www.doomworld.com/forum/topic/155604-doom-2-remake-for-gzdoom-with-otex-301-maps/)
+   a) [DOOM 404 - complevel 2 megawad](https://www.doomworld.com/forum/topic/102536-doom-404-complevel-2-megawad-now-on-idgames/)  
+   b) [DOOM 2: REMAKE for GZDoom, with OTEX (30+1) maps](https://www.doomworld.com/forum/topic/155604-doom-2-remake-for-gzdoom-with-otex-301-maps/)  
+   c) [Hell Unearthed – 6 DOOM 2 Limit Removing Maps by LerxstInWonderland](https://www.doomworld.com/forum/topic/128245-hell-unearthed-6-doom-2-limit-removing-maps/)  
+   d) [None Like It Hot! – A single vanilla DOOM 2 by LerxstInWonderland](https://www.doomworld.com/forum/topic/143312-none-like-it-hot-a-single-vanilla-doom-2-map/)  
+   e) [Entangled – A single level for DOOM 2 (limit removing) by LerxstInWonderland](https://www.doomworld.com/forum/topic/151288-entangled-a-single-level-for-doom-2-limit-removing/)  
+   f) [DOOM 404 - complevel 2 megawad](https://www.doomworld.com/forum/topic/102536-doom-404-complevel-2-megawad-now-on-idgames/)  
 
    If you have additional map suggestions that should be listed, please contact me at [makeitsoapp@proton.me](mailto:makeitsoapp@proton.me).
    
@@ -98,7 +99,7 @@ It will not interfere with the challenge. I recommend setting it to keep a maxim
 
 ---
 
-## Load Order (Top → Bottom)
+## Brutal Pack Load Order (Top → Bottom)
 
 > Be sure to **load the files in the following order** (top → bottom) when launching GZDoom.  
 > Using this order ensures all mods load correctly and maintain compatibility.
