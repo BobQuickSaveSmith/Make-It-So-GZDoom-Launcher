@@ -50,7 +50,7 @@ You can set it on launch: `+set vid_scalefactor 0.5`.
    a) [DOOM 404 - complevel 2 megawad](https://www.doomworld.com/forum/topic/102536-doom-404-complevel-2-megawad-now-on-idgames/)  
    b) [DOOM 2: REMAKE for GZDoom, with OTEX (30+1) maps](https://www.doomworld.com/forum/topic/155604-doom-2-remake-for-gzdoom-with-otex-301-maps/)  
    c) [1000 Line Community Project](https://www.doomworld.com/vb/thread/103909)  
-   d) [1000 Lines 2 - Community Project](https://doomwiki.org/wiki/1000_Lines_2_-_Community_Project)  
+   d) [1000 Lines 2 - Community Project](https://www.doomworld.com/vb/thread/115653)  
    e) [1000 Lines 3: Community Project](https://www.doomworld.com/vb/thread/125479)  
    f) [Micro Slaughter Community Project (17 maps)](https://www.doomworld.com/vb/thread/119448)  
   
