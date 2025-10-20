@@ -3,6 +3,7 @@
 - [The Hell Run Protocol](#the-hell-run-protocol)
 - [How To Activate](#how-to-activate)
 - [Brutal Pack Load Order (Top → Bottom)](#brutal-pack-load-order-top--bottom)
+- [Editorial Note](editoral-note)
 
 ---
 
@@ -169,28 +170,30 @@ It will not interfere with the challenge. I recommend setting it to keep a maxim
 
 ---
 
-### 11) **GunBonsai-0.10.6.pk3**  
-> Weapon XP and perk system that evolves your guns over time.  
-[GitHub](https://github.com/ToxicFrog/doom-mods/releases/tag/gun-bonsai-0.10.6) · [Forum](https://forum.zdoom.org/viewtopic.php?t=76080)
-
----
-
-### 12) **LiveReverb.pk3**  
+### 11) **LiveReverb.pk3**  
 > Dynamic environmental reverb based on sector type and geometry.  
 [Doomworld](https://www.doomworld.com/forum/topic/120740-livereverb-dynamic-reverb-for-all-doom-maps/) · [Forum](https://forum.zdoom.org/viewtopic.php?t=71849)
 
 ---
 
-### 13) **minimap_m.pk3**  
+### 12) **minimap_m.pk3**  
 > Adds an overlay minimap with custom colors and transparency options.  
 [Discord](https://discord.gg/GczEEGda) → `#suggestions-monsters_and_items`  
 
 ---
 
-### 14) **HXRTCHUD_BP_V10.4a_v2.pk3**  
+### 13) **HXRTCHUD_BP_V10.4a_v2.pk3**  
 > Alternate HUD layout tuned for Brutal Pack 10.4.  
 [Discord](https://discord.gg/GczEEGda) → `#brutal-pack-adons` (Pinned Messages)  
 
 ---
+
+### [Editorial Note]
+
+Removed Gun Bonsai (GunBonsai-0.10.6.pk3) for the following reasons:
+a) It caused occasional instability and lock-ups.
+b) While an excellent mod, its frequent interruptions disrupted gameplay flow.
+c) It made the overall experience too easy on any difficulty, especially when combined with Crowd Control.
+
 
 _Last updated 2025-10-13_
