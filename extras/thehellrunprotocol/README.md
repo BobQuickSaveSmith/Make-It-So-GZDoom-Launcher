@@ -190,10 +190,10 @@ It will not interfere with the challenge. I recommend setting it to keep a maxim
 
 ## [Editorial Note]
 
-Removed Gun Bonsai (GunBonsai-0.10.6.pk3) for the following reasons:
-a) It caused occasional instability and lock-ups.
-b) While an excellent mod, its frequent interruptions disrupted gameplay flow.
-c) It made the overall experience too easy on any difficulty, especially when combined with Crowd Control.
+Removed Gun Bonsai (GunBonsai-0.10.6.pk3) for the following reasons:  
+a) It caused occasional instability and lock-ups.  
+b) While an excellent mod, its frequent interruptions disrupted gameplay flow.  
+c) It made the overall experience too easy on any difficulty, especially when combined with Crowd Control.  
 
 
-_Last updated 2025-10-13_
+_Last updated 2025-10-19_
