@@ -188,7 +188,7 @@ It will not interfere with the challenge. I recommend setting it to keep a maxim
 
 ---
 
-### [Editorial Note]
+## [Editorial Note]
 
 Removed Gun Bonsai (GunBonsai-0.10.6.pk3) for the following reasons:
 a) It caused occasional instability and lock-ups.
