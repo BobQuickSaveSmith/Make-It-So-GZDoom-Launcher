@@ -147,7 +147,7 @@ It will not interfere with the challenge. I recommend setting it to keep a maxim
 ---
 
 ### 7) **CorruptionCards-v6.3b.pk3**  
-> Random gameplay modifiers that add roguelike twists to each map.  
+> Random gameplay modifiers that add roguelite twists to each map.  
 [Forum](https://forum.zdoom.org/viewtopic.php?t=67939) · [ModDB](https://www.moddb.com/mods/corruption-cards/downloads/corruptioncards-v63b)
 
 ---
