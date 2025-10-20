@@ -3,7 +3,7 @@
 - [The Hell Run Protocol](#the-hell-run-protocol)
 - [How To Activate](#how-to-activate)
 - [Brutal Pack Load Order (Top → Bottom)](#brutal-pack-load-order-top--bottom)
-- [Editorial Note](editoral-note)
+- [Editorial Note](#editorial-note)
 
 ---
 
