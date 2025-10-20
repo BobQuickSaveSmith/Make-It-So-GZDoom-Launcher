@@ -192,7 +192,7 @@ It will not interfere with the challenge. I recommend setting it to keep a maxim
 
 Removed Gun Bonsai (GunBonsai-0.10.6.pk3) for the following reasons:  
 a) It caused occasional instability and lock-ups.  
-b) While an excellent mod, its frequent interruptions disrupted gameplay flow.  
+b) While an excellent mod, its frequent interruptions disrupted The Hell Run Protocol flow.  
 c) It made the overall experience too easy on any difficulty, especially when combined with Crowd Control.  
 
 
