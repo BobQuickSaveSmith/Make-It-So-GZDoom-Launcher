@@ -40,30 +40,38 @@ You can set it on launch: `+set vid_scalefactor 0.5`.
 
 ---
 
-### How To Activate:
+### How To Activate
 
-0) **(If using custom maps) Load them first.**  
+0️⃣ **(If using custom maps) Load them first.**  
    *Before anything else, load your chosen map or campaign above all mod and add-on files.*
 
-   Suggested maps in no particular order, they're all fantastic:
+---
 
-   a) [DOOM 404 - complevel 2 megawad](https://www.doomworld.com/forum/topic/102536-doom-404-complevel-2-megawad-now-on-idgames/)  
-   b) [DOOM 2: REMAKE for GZDoom, with OTEX (30+1) maps](https://www.doomworld.com/forum/topic/155604-doom-2-remake-for-gzdoom-with-otex-301-maps/)  
-   c) [1000 Line Community Project](https://www.doomworld.com/vb/thread/103909)  
-   d) [1000 Lines 2 - Community Project](https://www.doomworld.com/vb/thread/115653)  
-   e) [1000 Lines 3: Community Project](https://www.doomworld.com/vb/thread/125479)  
-   g) [Real World](https://doomwiki.org/wiki/Real_World)  
-   h) [Real World 2](https://doomwiki.org/wiki/Real_World_2)  
-   i) [Scythe](https://doomwiki.org/wiki/Scythe)  
-   j) [Scythe 2](https://doomwiki.org/wiki/Scythe_2)  
-   k) [Scythe X](https://doomwiki.org/wiki/Scythe_X)  
-   l) [Zone 300](https://doomwiki.org/wiki/Zone_300)    
-   m) [Zone 400](https://doomwiki.org/wiki/Zone_400)  
-   n) [(cl-2) Bearricade](https://www.doomworld.com/forum/topic/150358-cl-2-bearricade-now-on-idgames)  
-   o) [Demonfear](https://doomwiki.org/wiki/Demonfear)  
-     
-   If you have additional map suggestions that should be listed, please contact me at [makeitsoapp@proton.me](mailto:makeitsoapp@proton.me).
-   
+#### 🗺️ Suggested Maps
+*(In no particular order — they’re all fantastic!)*  
+
+| # | Map / Megawad |
+|:-:|:---------------|
+| a) | [DOOM 404 – complevel 2 megawad](https://www.doomworld.com/forum/topic/102536-doom-404-complevel-2-megawad-now-on-idgames/) |
+| b) | [DOOM 2: Remake for GZDoom (30 + 1 maps, OTEX)](https://www.doomworld.com/forum/topic/155604-doom-2-remake-for-gzdoom-with-otex-301-maps/) |
+| c) | [1000 Line Community Project](https://www.doomworld.com/vb/thread/103909) |
+| d) | [1000 Lines 2 – Community Project](https://www.doomworld.com/vb/thread/115653) |
+| e) | [1000 Lines 3 – Community Project](https://www.doomworld.com/vb/thread/125479) |
+| f) | [Real World](https://doomwiki.org/wiki/Real_World) |
+| g) | [Real World 2](https://doomwiki.org/wiki/Real_World_2) |
+| h) | [Scythe](https://doomwiki.org/wiki/Scythe) |
+| i) | [Scythe 2](https://doomwiki.org/wiki/Scythe_2) |
+| j) | [Scythe X](https://doomwiki.org/wiki/Scythe_X) |
+| k) | [Zone 300](https://doomwiki.org/wiki/Zone_300) |
+| l) | [Zone 400](https://doomwiki.org/wiki/Zone_400) |
+| m) | [(cl-2) Bearricade](https://www.doomworld.com/forum/topic/150358-cl-2-bearricade-now-on-idgames) |
+| n) | [Demonfear](https://doomwiki.org/wiki/Demonfear) |
+
+---
+
+*Have a great map suggestion that should be added?*  
+Send it to **[makeitsoapp@proton.me](mailto:makeitsoapp@proton.me)**.
+
 ---
 
 1a) **[Load Brutal Pack and all provided add-ons](https://github.com/BobQuickSaveSmith/Make-It-So-GZDoom-Launcher/raw/main/extras/thehellrunprotocol/brutalpack_and_extras_quick_install.zip)** in their proper order. ➤ [Jump to Load Order](#load-order-top--bottom)
