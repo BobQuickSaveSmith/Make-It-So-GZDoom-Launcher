@@ -59,7 +59,8 @@ You can set it on launch: `+set vid_scalefactor 0.5`.
    k) [Scythe X](https://doomwiki.org/wiki/Scythe_X)  
    l) [Zone 300](https://doomwiki.org/wiki/Zone_300)    
    m) [Zone 400](https://doomwiki.org/wiki/Zone_400)  
-   n) [(cl-2) Bearricade] (https://www.doomworld.com/forum/topic/150358-cl-2-bearricade-now-on-idgames)  
+   n) [(cl-2) Bearricade](https://www.doomworld.com/forum/topic/150358-cl-2-bearricade-now-on-idgames)  
+   o) [Demonfear](https://doomwiki.org/wiki/Demonfear)
      
    If you have additional map suggestions that should be listed, please contact me at [makeitsoapp@proton.me](mailto:makeitsoapp@proton.me).
    
