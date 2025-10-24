@@ -42,12 +42,12 @@ You can set it on launch: `+set vid_scalefactor 0.5`.
 
 ### How To Activate
 
-0️⃣ **(If using custom maps) Load them first.**  
+ **(If using custom maps) Load them first.**  
    *Before anything else, load your chosen map or campaign above all mod and add-on files.*
 
 ---
 
-#### 🗺️ Suggested Maps
+#### Suggested Maps
 *(In no particular order — they’re all fantastic!)*  
 
 | Map / Megawad |
