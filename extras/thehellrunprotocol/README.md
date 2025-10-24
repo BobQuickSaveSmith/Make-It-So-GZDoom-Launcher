@@ -50,26 +50,26 @@ You can set it on launch: `+set vid_scalefactor 0.5`.
 #### 🗺️ Suggested Maps
 *(In no particular order — they’re all fantastic!)*  
 
-| # | Map / Megawad |
-|:-:|:---------------|
-| a) | [DOOM 404 – complevel 2 megawad](https://www.doomworld.com/forum/topic/102536-doom-404-complevel-2-megawad-now-on-idgames/) |
-| b) | [DOOM 2: Remake for GZDoom (30 + 1 maps, OTEX)](https://www.doomworld.com/forum/topic/155604-doom-2-remake-for-gzdoom-with-otex-301-maps/) |
-| c) | [1000 Line Community Project](https://www.doomworld.com/vb/thread/103909) |
-| d) | [1000 Lines 2 – Community Project](https://www.doomworld.com/vb/thread/115653) |
-| e) | [1000 Lines 3 – Community Project](https://www.doomworld.com/vb/thread/125479) |
-| f) | [Real World](https://doomwiki.org/wiki/Real_World) |
-| g) | [Real World 2](https://doomwiki.org/wiki/Real_World_2) |
-| h) | [Scythe](https://doomwiki.org/wiki/Scythe) |
-| i) | [Scythe 2](https://doomwiki.org/wiki/Scythe_2) |
-| j) | [Scythe X](https://doomwiki.org/wiki/Scythe_X) |
-| k) | [Zone 300](https://doomwiki.org/wiki/Zone_300) |
-| l) | [Zone 400](https://doomwiki.org/wiki/Zone_400) |
-| m) | [(cl-2) Bearricade](https://www.doomworld.com/forum/topic/150358-cl-2-bearricade-now-on-idgames) |
-| n) | [Demonfear](https://doomwiki.org/wiki/Demonfear) |
+| Map / Megawad |
+|:---------------|
+| [DOOM 404 – complevel 2 megawad](https://www.doomworld.com/forum/topic/102536-doom-404-complevel-2-megawad-now-on-idgames/) |
+| [DOOM 2: Remake for GZDoom (30 + 1 maps, OTEX)](https://www.doomworld.com/forum/topic/155604-doom-2-remake-for-gzdoom-with-otex-301-maps/) |
+| [1000 Line Community Project](https://www.doomworld.com/vb/thread/103909) |
+| [1000 Lines 2 – Community Project](https://www.doomworld.com/vb/thread/115653) |
+| [1000 Lines 3 – Community Project](https://www.doomworld.com/vb/thread/125479) |
+| [Real World](https://doomwiki.org/wiki/Real_World) |
+| [Real World 2](https://doomwiki.org/wiki/Real_World_2) |
+| [Scythe](https://doomwiki.org/wiki/Scythe) |
+| [Scythe 2](https://doomwiki.org/wiki/Scythe_2) |
+| [Scythe X](https://doomwiki.org/wiki/Scythe_X) |
+| [Zone 300](https://doomwiki.org/wiki/Zone_300) |
+| [Zone 400](https://doomwiki.org/wiki/Zone_400) |
+| [(cl-2) Bearricade](https://www.doomworld.com/forum/topic/150358-cl-2-bearricade-now-on-idgames) |
+| [Demonfear](https://doomwiki.org/wiki/Demonfear) |
 
 ---
 
-*Have a great map suggestion that should be added?*  
+ *Have a great map suggestion that should be added?*  
 Send it to **[makeitsoapp@proton.me](mailto:makeitsoapp@proton.me)**.
 
 ---
