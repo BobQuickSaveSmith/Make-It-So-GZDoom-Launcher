@@ -70,7 +70,7 @@ You can set it on launch: `+set vid_scalefactor 0.5`.
 ---
 
  *Have a great map suggestion that should be added?*  
-Send it to **[makeitsoapp@proton.me](mailto:makeitsoapp@proton.me)**.
+Send it to: **[makeitsoapp@proton.me](mailto:makeitsoapp@proton.me)**
 
 ---
 
