@@ -66,7 +66,7 @@ You can set it on launch: `+set vid_scalefactor 0.5`.
 | [Zone 400](https://doomwiki.org/wiki/Zone_400) |
 | [(cl-2) Bearricade](https://www.doomworld.com/forum/topic/150358-cl-2-bearricade-now-on-idgames) |
 | [Demonfear](https://doomwiki.org/wiki/Demonfear) |
-| ["TNT:XIAO" - A 32 map megawad for TNT: Evilution](https://www.doomworld.com/forum/topic/154192-tntxiao-a-32-map-megawad-for-tnt-evilution-now-on-idgames/) *requires* [TNT: Evilution](https://doomwiki.org/wiki/TNT:_Evilution]) |
+| ["TNT:XIAO" - A 32 map megawad for TNT: Evilution](https://www.doomworld.com/forum/topic/154192-tntxiao-a-32-map-megawad-for-tnt-evilution-now-on-idgames/) *requires* [TNT: Evilution](https://doomwiki.org/wiki/TNT:_Evilution) |
 
 ---
 
