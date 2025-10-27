@@ -52,21 +52,23 @@ You can set it on launch: `+set vid_scalefactor 0.5`.
 
 | Map / Megawad |
 |:---------------|
-| [DOOM 404 – complevel 2 megawad](https://www.doomworld.com/forum/topic/102536-doom-404-complevel-2-megawad-now-on-idgames/) |
+| [DOOM 404 – complevel 2 megawad](https://www.doomworld.com/idgames/levels/doom2/megawads/doom404) |
 | [DOOM 2: Remake for GZDoom (30 + 1 maps, OTEX)](https://www.doomworld.com/forum/topic/155604-doom-2-remake-for-gzdoom-with-otex-301-maps/) |
-| [1000 Line Community Project](https://www.doomworld.com/vb/thread/103909) |
-| [1000 Lines 2 – Community Project](https://www.doomworld.com/vb/thread/115653) |
-| [1000 Lines 3 – Community Project](https://www.doomworld.com/vb/thread/125479) |
-| [Real World](https://doomwiki.org/wiki/Real_World) |
-| [Real World 2](https://doomwiki.org/wiki/Real_World_2) |
-| [Scythe](https://doomwiki.org/wiki/Scythe) |
-| [Scythe 2](https://doomwiki.org/wiki/Scythe_2) |
-| [Scythe X](https://doomwiki.org/wiki/Scythe_X) |
-| [Zone 300](https://doomwiki.org/wiki/Zone_300) |
-| [Zone 400](https://doomwiki.org/wiki/Zone_400) |
-| [(cl-2) Bearricade](https://www.doomworld.com/forum/topic/150358-cl-2-bearricade-now-on-idgames) |
+| [1000 Line Community Project](https://www.doomworld.com/idgames/levels/doom2/megawads/1klinecp) |
+| [1000 Lines 2 – Community Project](https://www.doomworld.com/idgames/levels/doom2/megawads/1klinecp2) |
+| [1000 Lines 3 – Community Project](https://www.doomworld.com/idgames/levels/doom2/megawads/1k3v1a) |
+| [Real World](https://www.doomworld.com/idgames/levels/doom2/p-r/rw) |
+| [Real World 2](https://www.doomworld.com/idgames/levels/doom2/p-r/rw2) |
+| [Scythe](https://www.doomworld.com/idgames/levels/doom2/megawads/scythe) |
+| [Scythe 2](https://www.doomworld.com/idgames/levels/doom2/Ports/megawads/scythe2) |
+| [Scythe X](https://www.doomworld.com/idgames/levels/doom2/Ports/s-u/scythex) |
+| [Zone 300](https://www.doomworld.com/idgames/levels/doom2/megawads/zone300) |
+| [Zone 400](https://www.doomworld.com/idgames/levels/doom2/megawads/zone400) |
+| [(cl-2) Bearricade](https://www.doomworld.com/idgames/levels/doom2/Ports/megawads/bearricade) |
 | [Demonfear](https://doomwiki.org/wiki/Demonfear) |
-| ["TNT:XIAO" - A 32 map megawad for TNT: Evilution](https://www.doomworld.com/forum/topic/154192-tntxiao-a-32-map-megawad-for-tnt-evilution-now-on-idgames/) *requires* [TNT: Evilution](https://doomwiki.org/wiki/TNT:_Evilution) |
+| ["TNT:XIAO" - A 32 map megawad for TNT: Evilution](https://www.doomworld.com/idgames/levels/doom2/Ports/megawads/tnt-xiao) *requires* [TNT: Evilution](https://doomwiki.org/wiki/TNT:_Evilution) |
+| [Khorus' Speedy Shit](https://www.doomworld.com/idgames/levels/doom2/megawads/kssht) |
+| [Confinement Community Project](https://www.doomworld.com/idgames/levels/doom2/Ports/megawads/conf) |
 
 ---
 
