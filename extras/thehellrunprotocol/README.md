@@ -69,6 +69,7 @@ You can set it on launch: `+set vid_scalefactor 0.5`.
 | ["TNT:XIAO" - A 32 map megawad for TNT: Evilution](https://www.doomworld.com/idgames/levels/doom2/Ports/megawads/tnt-xiao) *requires* [TNT: Evilution](https://doomwiki.org/wiki/TNT:_Evilution) |
 | [Khorus' Speedy Shit](https://www.doomworld.com/idgames/levels/doom2/megawads/kssht) |
 | [Confinement Community Project](https://www.doomworld.com/idgames/levels/doom2/Ports/megawads/conf) |
+| [Compendium](https://forum.zdoom.org/viewtopic.php?t=61211) |
 
 ---
 
